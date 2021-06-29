@@ -1,2 +1,14 @@
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Media_Prima",TV1
+http://iptv.tvmalaysia.cc/932633/932633/7177
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Media_Prima",TV2
+http://iptv.tvmalaysia.cc/932633/932633/7178
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Media_Prima",TV3
+http://iptv.tvmalaysia.cc/932633/932633/7266
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Media_Prima",TV3-HD
 http://iptv.tvmalaysia.cc/932633/932633/8750
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Media_Prima",TV9
+http://iptv.tvmalaysia.cc/932633/932633/7185
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Media_Prima",NTV7
+http://iptv.tvmalaysia.cc/932633/932633/8922
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Media_Prima",RTM_SPORT
+http://iptv.tvmalaysia.cc/932633/932633/7186
