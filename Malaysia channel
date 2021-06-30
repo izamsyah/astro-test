@@ -2,6 +2,8 @@
 http://iptv.tvmalaysia.cc/932633/932633/7177
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Media_Prima",TV2
 http://iptv.tvmalaysia.cc/932633/932633/7178
+#EXTINF:-1   tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Media_Prima",TV3_Backup
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Media_Prima",TV3
 http://iptv.tvmalaysia.cc/932633/932633/7266
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Media_Prima",TV3-HD
