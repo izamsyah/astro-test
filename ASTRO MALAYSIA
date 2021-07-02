@@ -523,8 +523,11 @@ http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-id="AstroArenaHD" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png",801 Astro Arena
+#EXTINF:-1 tvg-id="AstroArenaHD" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png",801 Astro Arena (A)
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroArenaHD" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png",801 Astro Arena (B)
+http://iptv.tvmalaysia.cc:80/live/932633/932633/6707.ts
 
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",811 Astro SuperSport HD 
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
