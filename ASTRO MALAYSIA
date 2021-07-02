@@ -362,10 +362,8 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MGNiNjQ3NmMtZDk3MC0zNzg1LTg1MTAtMTg0ODllMTQ1ZjRk
 http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd
 
-#EXTINF:-1 tvg-id="HistoryHD" group-title="Documentary" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",555 History HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#EXTINF:-1 tvg-id="HistoryFHD" group-title="Documentary" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",555 History FHD
+http://iptv.tvmalaysia.cc:80/live/932633/932633/7079.ts
 
 #EXTINF:-1 tvg-id="AnimalPlanetHD" group-title="Documentary" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",556 Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
