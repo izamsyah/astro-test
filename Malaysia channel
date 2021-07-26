@@ -36,3 +36,33 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryFHD" group-title="LIVE_Astro" tvg-logo="" ,555 History FHD
 http://iptv.tvmalaysia.cc:80/live/932633/932633/7079.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLYMPICS TOKYO 2020", Bein sport 1 premium
+http://directn.mrnova.online/live/60060_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLYMPICS TOKYO 2020", Bein sport 2 premium
+http://directn.mrnova.online/live/60061_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLYMPICS TOKYO 2020", Bein sport 3 premium
+http://directn.mrnova.online/live/60062_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLYMPICS TOKYO 2020", Bein sport 1
+http://directn.mrnova.online/live/60043_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLYMPICS TOKYO 2020", Bein sport 2
+http://directn.mrnova.online/live/60044_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLYMPICS TOKYO 2020", Bein sport 3
+http://directn.mrnova.online/live/60045_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLYMPICS TOKYO 2020", Bein sport 4
+http://directn.mrnova.online/live/60046_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLYMPICS TOKYO 2020", Bein sport 5
+http://directn.mrnova.online/live/60047_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLYMPICS TOKYO 2020", Bein sport 6
+http://directn.mrnova.online/live/60048_.m3u8?token=ndirect50k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLYMPICS TOKYO 2020", Bein sport 7
+http://directn.mrnova.online/live/60049_.m3u8?token=ndirect50k
