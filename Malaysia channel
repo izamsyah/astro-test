@@ -1,42 +1,4 @@
-#EXTINF:-1   tvg-logo="https://i.imgur.com/u9uPPgo.jpg" group-title="Media_Prima",TV1
-http://iptv.tvmalaysia.cc/932633/932633/7177
-#EXTINF:-1   tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="Media_Prima",TV2
-http://iptv.tvmalaysia.cc/932633/932633/7178
-#EXTINF:-1   tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Media_Prima",TV3_Backup
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Media_Prima",TV3_(A)
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Media_Prima",TV3
-http://iptv.tvmalaysia.cc/932633/932633/7266
-#EXTINF:-1   tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Media_Prima",TV3-HD
-http://iptv.tvmalaysia.cc/932633/932633/8750
-#EXTINF:-1   tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Media_Prima",TV9
-http://iptv.tvmalaysia.cc/932633/932633/7185
-#EXTINF:-1   tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Media_Prima",NTV7
-http://iptv.tvmalaysia.cc/932633/932633/8922
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Media_Prima",RTM_SPORT
-http://iptv.tvmalaysia.cc/932633/932633/7186
-
-#EXTINF:-1 tvg-id="AstroRiaHD" group-title="LIVE_Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest?cb=20180623060717",104 Astro Ria
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroPrimaHD" group-title="LIVE_Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="LIVE_Astro" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png",Drama Sangat
-http://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
-
-#EXTINF:-1 tvg-id="AstroOasisHD" group-title="LIVE_Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",106 Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroWarnaHD" group-title="LIVE_Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroCitraHD" group-title="LIVE_Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroCitraHD" group-title="LIVE_Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra Backup
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroNaura" group-title="LIVE_Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Naura_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Naura
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryFHD" group-title="LIVE_Astro" tvg-logo="" ,555 History FHD
-http://iptv.tvmalaysia.cc:80/live/932633/932633/7079.ts
-
+#EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLYMPICS TOKYO 2020", Bein sport 1 premium
 http://directn.mrnova.online/live/60060_.m3u8?token=ndirect50k
 
@@ -67,210 +29,489 @@ http://directn.mrnova.online/live/60048_.m3u8?token=ndirect50k
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="OLYMPICS TOKYO 2020", Bein sport 7
 http://directn.mrnova.online/live/60049_.m3u8?token=ndirect50k
 
-#EXTM3U
-#EXTINF:-1 tvg-id="astroria.my" tvg-name="ASTRO Ria HD" tvg-logo="https://i.postimg.cc/L8kDdr1g/images-9.png" group-title="LIVE | ASTRO",ASTRO Ria HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6730
-#EXTINF:-1 tvg-id="MY: ASTRO PRIMA HD" tvg-name="ASTRO Prima HD" tvg-logo="https://i.postimg.cc/mrr3FhPB/download-13.png" group-title="LIVE | ASTRO",ASTRO Prima HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6727
-#EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="https://i.postimg.cc/Kz3MQkSb/Astro-Warna-NEW-1.png" group-title="LIVE | ASTRO",ASTRO Warna HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6740
-#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="Astro Citra HD (subtitle)" tvg-logo="https://i.postimg.cc/3Jt3M73Y/Astro-Citra.png" group-title="LIVE | ASTRO",Astro Citra HD (subtitle)
-http://iptv.tvmalaysia.cc:80/932633/932633/7267
-#EXTINF:-1 tvg-id="MY: NAURA HD" tvg-name="ASTRO Naura HD" tvg-logo="https://i.postimg.cc/j21r6DXN/NAURA.png" group-title="LIVE | ASTRO",ASTRO Naura HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6724
-#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="ASTRO Oasis HD" tvg-logo="https://i.postimg.cc/28BpR8Gc/Astro-Oasis.png" group-title="LIVE | ASTRO",ASTRO Oasis HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6725
-#EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="https://i.postimg.cc/mDRFTCLj/Astro-Aura-NEW.png" group-title="LIVE | ASTRO",ASTRO Aura HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6713
-#EXTINF:-1 tvg-id="MY: ASTRO RANIA HD" tvg-name="ASTRO Rania HD" tvg-logo="https://i.postimg.cc/RVFXHPyj/Astro-Rania-NEW.png" group-title="LIVE | ASTRO",ASTRO Rania HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6729
-#EXTINF:-1 tvg-id="astroawani.my" tvg-name="ASTRO Awani HD" tvg-logo="https://i.postimg.cc/CLYYJ7vm/images-8.png" group-title="LIVE | ASTRO",ASTRO Awani HD
+#EXTINF:-1 tvg-id="astroawani.my" tvg-logo="https://i.postimg.cc/CLYYJ7vm/images-8.png" group-title="LIVE | ASTRO", ASTRO Awani HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6714
-#EXTINF:-1 tvg-id="astroceria.my" tvg-name="ASTRO Ceria HD" tvg-logo="https://i.postimg.cc/1zTVN2rW/download-22.jpg" group-title="LIVE | ASTRO",ASTRO Ceria HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6715
-#EXTINF:-1 tvg-id="MY: ABC AUSTRALIA" tvg-name="ABC Australia" tvg-logo="https://i.postimg.cc/LXdf2gCs/10477576-3x2-940x627.jpg" group-title="LIVE | ASTRO",ABC Australia
-http://iptv.tvmalaysia.cc:80/932633/932633/6692
-#EXTINF:-1 tvg-id="MY: ASIAN FOOD NETWORK HD" tvg-name="Asian Food Network HD" tvg-logo="https://i.postimg.cc/3NtVsh83/1200px-Asian-Food-Network-svg.png" group-title="LIVE | ASTRO",Asian Food Network HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6693
-#EXTINF:-1 tvg-id="MY: AL JAZEERA ENGLISH HD" tvg-name="Al-Jazzera HD" tvg-logo="https://i.postimg.cc/zBtk5Gg2/Al-jazeera-logo.jpg" group-title="LIVE | ASTRO",Al-Jazzera HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6694
-#EXTINF:-1 tvg-id="MY: ANIMAL PLANET HD" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/y8snFtsP/dd44e1a-fffbc72e-47e7-4029-9a46-dbf8843c8981.png" group-title="LIVE | ASTRO",Animal Planet HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6695
-#EXTINF:-1 tvg-id="animax.my" tvg-name="Animax" tvg-logo="https://i.postimg.cc/HxfLh31L/Animaxlogo-20160701.png" group-title="LIVE | ASTRO",Animax
-http://iptv.tvmalaysia.cc:80/932633/932633/6696
-#EXTINF:-1 tvg-id="MY: ANIPLUS" tvg-name="Aniplus HD" tvg-logo="https://i.postimg.cc/dtQMKrQQ/ZZ-Pw-KWt-400x400.jpg" group-title="LIVE | ASTRO",Aniplus HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6697
-#EXTINF:-1 tvg-id="MY: ADITHYA" tvg-name="ASTRO Adithya" tvg-logo="https://i.postimg.cc/dVvbwf2y/55fb00a28ead0e79178b5e39.jpg" group-title="LIVE | ASTRO",ASTRO Adithya
-http://iptv.tvmalaysia.cc:80/932633/932633/6700
-#EXTINF:-1 tvg-id="MY: ASTRO AEC HD" tvg-name="ASTRO AEC HD" tvg-logo="https://i.postimg.cc/SQ98p1Nq/download-11.png" group-title="LIVE | ASTRO",ASTRO AEC HD
+
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-logo="https://i.postimg.cc/28BpR8Gc/Astro-Oasis.png" group-title="LIVE | ASTRO", ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6725
+
+#EXTINF:-1 tvg-id="astroria.my" tvg-logo="https://i.postimg.cc/L8kDdr1g/images-9.png" group-title="LIVE | ASTRO", ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6730
+
+#EXTINF:-1 tvg-id="astrocitra.my" tvg-logo="https://i.postimg.cc/3Jt3M73Y/Astro-Citra.png" group-title="LIVE | ASTRO", Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/932633/932633/7267
+
+#EXTINF:-1 tvg-id="MY: ASTRO PRIMA HD" tvg-logo="https://i.postimg.cc/mrr3FhPB/download-13.png" group-title="LIVE | ASTRO", ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6727
+
+#EXTINF:-1 tvg-id="astrowarna.my" tvg-logo="https://i.postimg.cc/Kz3MQkSb/Astro-Warna-NEW-1.png" group-title="LIVE | ASTRO", ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6740
+
+#EXTINF:-1 tvg-id="MY: NAURA HD" tvg-logo="https://i.postimg.cc/j21r6DXN/NAURA.png" group-title="LIVE | ASTRO", ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6724
+
+#EXTINF:-1 tvg-id="astroaura.my" tvg-logo="https://i.postimg.cc/mDRFTCLj/Astro-Aura-NEW.png" group-title="LIVE | ASTRO", ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6713
+
+#EXTINF:-1 tvg-id="MY: ASTRO RANIA HD" tvg-logo="https://i.postimg.cc/RVFXHPyj/Astro-Rania-NEW.png" group-title="LIVE | ASTRO", ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6729
+
+#EXTINF:-1 tvg-id="MY: ASTRO AEC HD" tvg-logo="https://i.postimg.cc/SQ98p1Nq/download-11.png" group-title="LIVE | ASTRO", ASTRO AEC HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6701
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND HD 311" tvg-name="ASTRO AOD 351 HD" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO",ASTRO AOD 351 HD
+
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND HD 311" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 351 HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6702
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 352" tvg-name=" ASTRO AOD 352 HD" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 352 HD
+
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 352" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 352 HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6703
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 353" tvg-name="ASTRO AOD 353 HD" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO",ASTRO AOD 353 HD
+
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 353" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 353 HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6704
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 354" tvg-name="ASTRO AOD 354 HD" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO",ASTRO AOD 354 HD
+
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 354" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 354 HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6705
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 355" tvg-name="ASTRO AOD 355 HD" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO",ASTRO AOD 355 HD
+
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 355" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 355 HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6706
-#EXTINF:-1 tvg-id="MY: COLORS TAMIL HD" tvg-name="ASTRO Colors Tamil" tvg-logo="https://i.postimg.cc/0Qwn6pDw/Colors-Tamil.png" group-title="LIVE | ASTRO",ASTRO Colors Tamil
-http://iptv.tvmalaysia.cc:80/932633/932633/6716
-#EXTINF:-1 tvg-id="MY: ZEE TAMIL HD" tvg-name="ASTRO Zee Tamil HD" tvg-logo="https://i.postimg.cc/TYYp9dLh/09zeetamilzeetamil.jpg" group-title="LIVE | ASTRO",ASTRO Zee Tamil HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6742
-#EXTINF:-1 tvg-id="MY: GO SHOP 111" tvg-name="ASTRO GO Shop 2" tvg-logo="https://i.postimg.cc/7Pg69fNM/astro-go-resized-2.jpg" group-title="LIVE | ASTRO",ASTRO GO Shop 2
+
+#EXTINF:-1 tvg-id="MY: GO SHOP 111" tvg-logo="https://i.postimg.cc/7Pg69fNM/astro-go-resized-2.jpg" group-title="LIVE | ASTRO", ASTRO GO Shop 2
 http://iptv.tvmalaysia.cc:80/932633/932633/6718
-#EXTINF:-1 tvg-id="MY: ASTRO VINMEEN HD" tvg-name="ASTRO Vinmeen HD" tvg-logo="https://i.postimg.cc/mrMXqDGY/Vinmeen-ENG.png" group-title="LIVE | ASTRO",ASTRO Vinmeen HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6739
-#EXTINF:-1 tvg-id="MY: ASTRO VAANAVIL" tvg-name="ASTRO Vaanavil HD" tvg-logo="https://i.postimg.cc/4yn3fjP1/Astro-Vaanavil-v1.png" group-title="LIVE | ASTRO",ASTRO Vaanavil HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6738
-#EXTINF:-1 tvg-id="MY: MAKKAL TV" tvg-name="Makkal TV" tvg-logo="https://i.postimg.cc/mkfcWxr1/unnamed-7.jpg" group-title="LIVE | ASTRO",Makkal TV
-http://iptv.tvmalaysia.cc:80/932633/932633/6806
-#EXTINF:-1 tvg-id="MY: SUN TV HD" tvg-name="ASTRO Sun TV HD" tvg-logo="https://i.postimg.cc/3x1Tdnq4/Sun-TV-logo-svg.png" group-title="LIVE | ASTRO",ASTRO Sun TV HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6733
-#EXTINF:-1 tvg-id="MY: STAR VIJAY HD" tvg-name="ASTRO Star Vijay HD" tvg-logo="https://i.postimg.cc/Jnctnbjp/Star-vijay-channel-logo.jpg" group-title="LIVE | ASTRO",ASTRO Star Vijay HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6732
-#EXTINF:-1 tvg-id="" tvg-name="Jaya Max" tvg-logo="https://i.postimg.cc/HnmvMm5H/jaya-max-final.jpg" group-title="LIVE | ASTRO",Jaya Max
-http://iptv.tvmalaysia.cc:80/932633/932633/6802
-#EXTINF:-1 tvg-id="MY: CHUTTI TV" tvg-name="Chutti TV" tvg-logo="https://i.postimg.cc/bNpH5FVB/unnamed-13.jpg" group-title="LIVE | ASTRO",Chutti TV
-http://iptv.tvmalaysia.cc:80/932633/932633/6762
-#EXTINF:-1 tvg-id="MY: iQIYI HD" tvg-name="ASTRO iQIYI HD" tvg-logo="https://i.postimg.cc/J0DjYJRQ/IMG-20201125-230926.jpg" group-title="LIVE | ASTRO",ASTRO iQIYI HD
+
+#EXTINF:-1 tvg-id="MY: iQIYI HD" tvg-logo="https://i.postimg.cc/J0DjYJRQ/IMG-20201125-230926.jpg" group-title="LIVE | ASTRO", ASTRO iQIYI HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6723
-#EXTINF:-1 tvg-id="MY: ASTRO HUA HEE DAI HD" tvg-name="ASTRO Hua Hee Dai HD" tvg-logo="https://i.postimg.cc/nhMDcByY/IMG-20201125-230458.jpg" group-title="LIVE | ASTRO",ASTRO Hua Hee Dai HD
+
+#EXTINF:-1 tvg-id="MY: ASTRO HUA HEE DAI HD" tvg-logo="https://i.postimg.cc/nhMDcByY/IMG-20201125-230458.jpg" group-title="LIVE | ASTRO", ASTRO Hua Hee Dai HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6722
-#EXTINF:-1 tvg-id="MY: HELLO HD" tvg-name="ASTRO Hello" tvg-logo="https://i.postimg.cc/4xGCbQ5s/Astro-HEllo.jpg" group-title="LIVE | ASTRO",ASTRO Hello
+
+#EXTINF:-1 tvg-id="MY: HELLO HD" tvg-logo="https://i.postimg.cc/4xGCbQ5s/Astro-HEllo.jpg" group-title="LIVE | ASTRO", ASTRO Hello
 http://iptv.tvmalaysia.cc:80/932633/932633/6721
-#EXTINF:-1 tvg-id="ohk.my" tvg-name="ASTRO Oh!K HD" tvg-logo="https://i.postimg.cc/Gpv7q4cY/logo.png" group-title="LIVE | ASTRO",ASTRO Oh!K HD
+
+#EXTINF:-1 tvg-id="ohk.my" tvg-logo="https://i.postimg.cc/Gpv7q4cY/logo.png" group-title="LIVE | ASTRO", ASTRO Oh!K HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6726
-#EXTINF:-1 tvg-id="MY: ASTRO QUAN JIA HD" tvg-name="ASTRO Quan Jia HD" tvg-logo="https://i.postimg.cc/KYLTTLZX/QJHD-E.jpg" group-title="LIVE | ASTRO",ASTRO Quan Jia HD
+
+#EXTINF:-1 tvg-id="MY: ASTRO QUAN JIA HD" tvg-logo="https://i.postimg.cc/KYLTTLZX/QJHD-E.jpg" group-title="LIVE | ASTRO", ASTRO Quan Jia HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6728
-#EXTINF:-1 tvg-id="MY: ASTRO SHUANG XING HD" tvg-name="ASTRO Shuang Xing HD" tvg-logo="https://i.postimg.cc/d1T3TKv5/Astro-Shuang-Xing-2015.png" group-title="LIVE | ASTRO",ASTRO Shuang Xing HD
+
+#EXTINF:-1 tvg-id="MY: ASTRO SHUANG XING HD" tvg-logo="https://i.postimg.cc/d1T3TKv5/Astro-Shuang-Xing-2015.png" group-title="LIVE | ASTRO", ASTRO Shuang Xing HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6731
-#EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV PT3" tvg-name="ASTRO Tutor TV PT3" tvg-logo="https://i.postimg.cc/TPTncYQN/TTV-PT3.png" group-title="LIVE | ASTRO",ASTRO Tutor TV PT3
+
+#EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV PT3" tvg-logo="https://i.postimg.cc/TPTncYQN/TTV-PT3.png" group-title="LIVE | ASTRO", ASTRO Tutor TV PT3
 http://iptv.tvmalaysia.cc:80/932633/932633/6734
-#EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV SPM" tvg-name="ASTRO Tutor TV SPM" tvg-logo="https://i.postimg.cc/tgSQqJML/TTV-SPM.png" group-title="LIVE | ASTRO",ASTRO Tutor TV SPM
+
+#EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV SPM" tvg-logo="https://i.postimg.cc/tgSQqJML/TTV-SPM.png" group-title="LIVE | ASTRO", ASTRO Tutor TV SPM
 http://iptv.tvmalaysia.cc:80/932633/932633/6735
-#EXTINF:-1 tvg-id="MY: ASTRO TVIQ" tvg-name="ASTRO Tutor TV UPSR" tvg-logo="https://i.postimg.cc/tC5rQffc/TTV-UPSR.png" group-title="LIVE | ASTRO",ASTRO Tutor TV UPSR
+
+#EXTINF:-1 tvg-id="MY: ASTRO TVIQ" tvg-logo="https://i.postimg.cc/tC5rQffc/TTV-UPSR.png" group-title="LIVE | ASTRO", ASTRO Tutor TV UPSR
 http://iptv.tvmalaysia.cc:80/932633/932633/6736
-#EXTINF:-1 tvg-id="MY: ASTRO TVIQ" tvg-name="ASTRO TVIQ" tvg-logo="https://i.postimg.cc/Hk0WDF7F/Astro-TVIQ-2007.png" group-title="LIVE | ASTRO",ASTRO TVIQ
+
+#EXTINF:-1 tvg-id="MY: ASTRO TVIQ" tvg-logo="https://i.postimg.cc/Hk0WDF7F/Astro-TVIQ-2007.png" group-title="LIVE | ASTRO", ASTRO TVIQ
 http://iptv.tvmalaysia.cc:80/932633/932633/6737
-#EXTINF:-1 tvg-id="MY: ASTRO XIAO TAI YANG HD" tvg-name="ASTRO Xiao Tai Yang HD" tvg-logo="https://i.postimg.cc/TYSnS5Xp/images-25.jpg" group-title="LIVE | ASTRO",ASTRO Xiao Tai Yang HD
+
+#EXTINF:-1 tvg-id="MY: ASTRO XIAO TAI YANG HD" tvg-logo="https://i.postimg.cc/TYSnS5Xp/images-25.jpg" group-title="LIVE | ASTRO", ASTRO Xiao Tai Yang HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6741
-#EXTINF:-1 tvg-id="MY: AXN HD" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/J02hdXvx/images-10.png" group-title="LIVE | ASTRO",AXN HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6743
-#EXTINF:-1 tvg-id="MY: 8TV" tvg-name="BBC Lifestyle" tvg-logo="https://i.postimg.cc/d3Q0tYzh/download-24.jpg" group-title="LIVE | ASTRO",BBC Lifestyle
-http://iptv.tvmalaysia.cc:80/932633/932633/6746
-#EXTINF:-1 tvg-id="bernamatv.my" tvg-name="Bernama News" tvg-logo="https://i.postimg.cc/rwn0zQTh/Bernama-logo.jpg" group-title="LIVE | ASTRO",Bernama News
-http://iptv.tvmalaysia.cc:80/932633/932633/6750
-#EXTINF:-1 tvg-id="MY: BLOOMBERG TELEVISION" tvg-name="Bloomberg TV" tvg-logo="https://i.postimg.cc/j5KLF94S/logog.png" group-title="LIVE | ASTRO",Bloomberg TV
-http://iptv.tvmalaysia.cc:80/932633/932633/6751
-#EXTINF:-1 tvg-id="astrobollyone.my" tvg-name="BollyOne HD" tvg-logo="https://i.postimg.cc/fySj2rNy/ABO-Bolly-One.png" group-title="LIVE | ASTRO",BollyOne HD
+
+#EXTINF:-1 tvg-id="astrobollyone.my" tvg-logo="https://i.postimg.cc/fySj2rNy/ABO-Bolly-One.png" group-title="LIVE | ASTRO", BollyOne HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6754
-#EXTINF:-1 tvg-id="MY: CNA HD" tvg-name="Channel News Asia HD" tvg-logo="https://i.postimg.cc/3whCpf5h/1200px-Channel-News-Asia-logo-shape-only-svg.png" group-title="LIVE | ASTRO",Channel News Asia HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6765
-#EXTINF:-1 tvg-id="MY: CINEMAX HD" tvg-name="Cinemax HD" tvg-logo="https://i.postimg.cc/d1x58Rj9/611-cinemax.png" group-title="LIVE | ASTRO",Cinemax HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6764
-#EXTINF:-1 tvg-id="MY: CELESTIAL MOVIES HD" tvg-name="Celestial Movies HD" tvg-logo="https://i.postimg.cc/XJ91fBXG/56b6c3c5f37c3-celestial-movies.jpg" group-title="LIVE | ASTRO",Celestial Movies HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6760
-#EXTINF:-1 tvg-id="MY: CCTV4  HD" tvg-name="CCTV4 HD" tvg-logo="https://i.postimg.cc/tT1ZwFFJ/43ba17ed58bf0c88c7c9a7adac88b6a6.jpg" group-title="LIVE | ASTRO",CCTV4 HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6759
-#EXTINF:-1 tvg-id="MY: CELESTIAL CLASSIC MOVIES" tvg-name="Celestial Classic Movies" tvg-logo="https://i.postimg.cc/HkRC35WB/CELESTIAL-CLASSIC-MOVIES-logo.png" group-title="LIVE | ASTRO",Celestial Classic Movies
-http://iptv.tvmalaysia.cc:80/932633/932633/6758
-#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network HD" tvg-logo="https://i.postimg.cc/MpWMd45K/images-12.png" group-title="LIVE | ASTRO",Cartoon Network HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6757
-#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="crime & investigation HD" tvg-logo="https://i.postimg.cc/wB2kwLLn/jrosbpfb-insidecrimeinvestigation.png" group-title="LIVE | ASTRO",crime & investigation HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6756
-#EXTINF:-1 tvg-id="MY: FX HD" tvg-name="FX Cinema HD" tvg-logo="https://i.postimg.cc/yYx63CT0/1860182.jpg" group-title="LIVE | ASTRO",FX Cinema HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6795
-#EXTINF:-1 tvg-id="MY: FRANCE24" tvg-name="France 24 HD" tvg-logo="https://i.postimg.cc/VkyyfxZf/1200px-FRANCE-24-logo-svg.png" group-title="LIVE | ASTRO",France 24 HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6794
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="Food Network HD" tvg-logo="https://i.postimg.cc/HnmQp48s/Food-Network-New-Logo.png" group-title="LIVE | ASTRO",Food Network HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6785
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="Eurosport HD" tvg-logo="https://i.postimg.cc/prVpG0n8/1200px-Eurosport-logo-svg.png" group-title="LIVE | ASTRO",Eurosport HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6784
-#EXTINF:-1 tvg-id="eggnetwork.my" tvg-name="eGG Network" tvg-logo="https://i.postimg.cc/13d7y2mm/800-300.png" group-title="LIVE | ASTRO",eGG Network
-http://iptv.tvmalaysia.cc:80/932633/932633/6783
-#EXTINF:-1 tvg-id="dw.id" tvg-name="DW HD" tvg-logo="https://i.postimg.cc/nVdPdCy9/avatars-000709704967-ud6ehk-t500x500.jpg" group-title="LIVE | ASTRO",DW HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6782
-#EXTINF:-1 tvg-id="" tvg-name="Dreamworks HD" tvg-logo="https://i.postimg.cc/1znvYBZ8/704-7046788-dreamworks-logo-hd-png-download-1.jpg" group-title="LIVE | ASTRO",Dreamworks HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6780
-#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX HD" tvg-logo="https://i.postimg.cc/kMQqpFnY/unnamed-10.jpg" group-title="LIVE | ASTRO",DMAX HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6778
-#EXTINF:-1 tvg-id="discoveryscience.ca" tvg-name="Discovery Science HD" tvg-logo="https://i.postimg.cc/Fsj75WS2/1200px-Science-Channel-logo-svg.png" group-title="LIVE | ASTRO",Discovery Science HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6774
-#EXTINF:-1 tvg-id="discoverychannel.ca" tvg-name="Discovery HD" tvg-logo="https://i.postimg.cc/gJ8qCyH4/Discovery-Stacked.png" group-title="LIVE | ASTRO",Discovery HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6773
-#EXTINF:-1 tvg-id="discoveryasia.my" tvg-name="Discovery Asia" tvg-logo="https://i.postimg.cc/c4wCf94F/Discovery-Asia-New-Power-VU-Key-on-Intelsat-19-166-0-E.png" group-title="LIVE | ASTRO",Discovery Asia
-http://iptv.tvmalaysia.cc:80/932633/932633/6772
-#EXTINF:-1 tvg-id="" tvg-name="CTI Asia" tvg-logo="https://i.postimg.cc/ZnLgSzxf/ctitv.jpg" group-title="LIVE | ASTRO",CTI Asia
-http://iptv.tvmalaysia.cc:80/932633/932633/6771
-#EXTINF:-1 tvg-id="MY: COMEDY CENTRAL ASIA HD" tvg-name="Comedy Central" tvg-logo="https://i.postimg.cc/WbvFYLyB/CC-Logo-Lock-Up-Horizontal-TM-Summer-Ale-White-on-blk.png" group-title="LIVE | ASTRO",Comedy Central
-http://iptv.tvmalaysia.cc:80/932633/932633/6770
-#EXTINF:-1 tvg-id="colorshd.uk" tvg-name="Colors HD" tvg-logo="https://i.postimg.cc/0Qwn6pDw/Colors-Tamil.png" group-title="LIVE | ASTRO",Colors HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6769
-#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/8PJN4Cc3/Colors-Cineplex-Black-1.jpg" group-title="LIVE | ASTRO",Colors Cineplex
-http://iptv.tvmalaysia.cc:80/932633/932633/6768
-#EXTINF:-1 tvg-id="MY: CNN HD" tvg-name="CNN HD" tvg-logo="https://i.postimg.cc/gcV8WqfL/cnn-logo-white-on-red.jpg" group-title="LIVE | ASTRO",CNN HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6767
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC" tvg-logo="https://i.postimg.cc/BZmZHjFw/961px-CNBC-logo-svg.png" group-title="LIVE | ASTRO",CNBC
-http://iptv.tvmalaysia.cc:80/932633/932633/6766
-#EXTINF:-1 tvg-id="warnertv.my" tvg-name="Warner TV" tvg-logo="https://i.postimg.cc/44WP4yzQ/Warner2018-LA.png" group-title="LIVE | ASTRO",Warner TV
-http://iptv.tvmalaysia.cc:80/932633/932633/6848
-#EXTINF:-1 tvg-id="MY: 8TV" tvg-name="UTV Movies International" tvg-logo="https://i.postimg.cc/52CDFLgV/utv-large-new.png" group-title="LIVE | ASTRO",UTV Movies International
-http://iptv.tvmalaysia.cc:80/932633/932633/6847
-#EXTINF:-1 tvg-id="" tvg-name="TV SARAWAK" tvg-logo="https://i.postimg.cc/t70wrgRf/TVS-Sarawak.jpg" group-title="LIVE | ASTRO",TV SARAWAK
-http://iptv.tvmalaysia.cc:80/932633/932633/6846
-#EXTINF:-1 tvg-id="tvnmovies.my" tvg-name="tvN Movies" tvg-logo="https://i.postimg.cc/wBhrvzVc/download-6.png" group-title="LIVE | ASTRO",tvN Movies
-http://iptv.tvmalaysia.cc:80/932633/932633/6845
-#EXTINF:-1 tvg-id="tvn.my" tvg-name="tvN HD" tvg-logo="https://i.postimg.cc/NFhvnDpp/1200px-Logo-tv-N-svg.png" group-title="LIVE | ASTRO",tvN HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6844
-#EXTINF:-1 tvg-id="MY: TVBS ASIA HD" tvg-name="TVBS Asia HD" tvg-logo="https://i.postimg.cc/cL1jJ2zV/download-21.jpg" group-title="LIVE | ASTRO",TVBS Asia HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6843
-#EXTINF:-1 tvg-id="MY: TVB XING HE HD" tvg-name="TVB Xing He HD" tvg-logo="https://i.postimg.cc/HLdLjYmT/c-Gcq5y-Ym-FWO2-MTY0k-DM2cj-Zl-Fz-Yz-Yj-N0-QWOz-Um-Mh-BDZ3-Im-Mi-JDO5-UDNz-MWYv0-WZ0l2-Ljl-Gcv-U2ap-Fm-Yv02bj5-Sdkl-WYi5y-Yy-N3-Zt.png" group-title="LIVE | ASTRO",TVB Xing He HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6842
-#EXTINF:-1 tvg-id="MY: TVB JADE" tvg-name="TVB Jade HD" tvg-logo="https://i.postimg.cc/2jh8dL5C/ddyeqy0-e0dabed1-5c60-443a-807f-6649fb482157.png" group-title="LIVE | ASTRO",TVB Jade HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6841
-#EXTINF:-1 tvg-id="MY: TVB NEWS" tvg-name="TVB E-News" tvg-logo="https://i.postimg.cc/XvCTMFmJ/512x512bb.jpg" group-title="LIVE | ASTRO",TVB E-News
-http://iptv.tvmalaysia.cc:80/932633/932633/6840
-#EXTINF:-1 tvg-id="" tvg-name="TVB Classic" tvg-logo="https://i.postimg.cc/NMQbNHwZ/tvbjingdian.jpg" group-title="LIVE | ASTRO",TVB Classic
-http://iptv.tvmalaysia.cc:80/932633/932633/6839
-#EXTINF:-1 tvg-id="MY: AL-HIJRAH" tvg-name="TV-AlHijrah" tvg-logo="https://i.postimg.cc/rmYZZNNz/logotvalhijrah.jpg" group-title="LIVE | ASTRO",TV-AlHijrah
-http://iptv.tvmalaysia.cc:80/932633/932633/6834
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD" tvg-logo="https://i.postimg.cc/tT5n9BMC/watch-travel-channel-online.jpg" group-title="LIVE | ASTRO",Travel Channel HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6833
-#EXTINF:-1 tvg-id="MY: TLC HD" tvg-name="TLC HD" tvg-logo="https://i.postimg.cc/5tpf0DbG/7933.jpg" group-title="LIVE | ASTRO",TLC HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6832
-#EXTINF:-1 tvg-id="MY: SUN MUSIC HD" tvg-name="Sun Music" tvg-logo="https://i.postimg.cc/T1vxHx9K/999a242ede00cf57a920fb833cfc5bf7.png" group-title="LIVE | ASTRO",Sun Music
-http://iptv.tvmalaysia.cc:80/932633/932633/6831
-#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="https://i.postimg.cc/1zDJrZfC/Sony-Entertainment-Television-logo.png" group-title="LIVE | ASTRO",Sony TV
-http://iptv.tvmalaysia.cc:80/932633/932633/6829
-#EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="https://i.postimg.cc/g0D47bPg/Sab-TV.png" group-title="LIVE | ASTRO",Sony SAB
-http://iptv.tvmalaysia.cc:80/932633/932633/6827
-#EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News HD" tvg-logo="https://i.postimg.cc/sf6frMcr/sky-news-new-logo.jpg" group-title="LIVE | ASTRO",Sky News HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6826
-#EXTINF:-1 tvg-id="MY: ONE HD" tvg-name="One HD" tvg-logo="https://i.postimg.cc/pT490JPX/ONE-logo.jpg" group-title="LIVE | ASTRO",One HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6817
-#EXTINF:-1 tvg-id="MY: NICKELODEON HD" tvg-name="Nickelodeon HD" tvg-logo="https://i.postimg.cc/7hKhjv84/unnamed-6.jpg" group-title="LIVE | ASTRO",Nickelodeon HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6814
-#EXTINF:-1 tvg-id="MY: 8TV" tvg-name="Nick Jr" tvg-logo="https://i.postimg.cc/MTTpRPfr/daa4c5f3bcd8d67ac7b06de63d793bf1.png" group-title="LIVE | ASTRO",Nick Jr
-http://iptv.tvmalaysia.cc:80/932633/932633/6813
-#EXTINF:-1 tvg-id="MY: NAT GEO PEOPLE HD" tvg-name="NatGeo People" tvg-logo="https://i.postimg.cc/xddPJQgr/NAH.jpg" group-title="LIVE | ASTRO",NatGeo People
-http://iptv.tvmalaysia.cc:80/932633/932633/6811
-#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV" tvg-logo="https://i.postimg.cc/WbY5jhsR/download-10.png" group-title="LIVE | ASTRO",MTV
-http://iptv.tvmalaysia.cc:80/932633/932633/6807
-#EXTINF:-1 tvg-id="MY: K-PLUS HD" tvg-name="KPlus HD" tvg-logo="https://i.postimg.cc/hGVWZNN5/k-plus.jpg" group-title="LIVE | ASTRO",KPlus HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6805
-#EXTINF:-1 tvg-id="MY: KIX HD" tvg-name="Kix HD" tvg-logo="https://i.postimg.cc/kGfRgxWx/unnamed-8.jpg" group-title="LIVE | ASTRO",Kix HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6804
-#EXTINF:-1 tvg-id="MY: KBS WORLD HD" tvg-name="KBS World HD" tvg-logo="https://i.postimg.cc/q7WRBpgM/photo.png" group-title="LIVE | ASTRO",KBS World HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6803
-#EXTINF:-1 tvg-id="MY: HITS MOVIES HD" tvg-name="Hits Movies HD" tvg-logo="https://i.postimg.cc/sf0Z1mRH/logo-HITSMOVIES.png" group-title="LIVE | ASTRO",Hits Movies HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6801
-#EXTINF:-1 tvg-id="MY: HITS HD" tvg-name="Hits HD" tvg-logo="https://i.postimg.cc/2y46HQVh/Astro-Hits-HD-Ch720.png" group-title="LIVE | ASTRO",Hits HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6800
-#EXTINF:-1 tvg-id="MY: HISTORY HD" tvg-name="History HD" tvg-logo="https://i.postimg.cc/5N4bddrZ/Screen-Shot-2020-06-01-at-9-40-34-AM.png" group-title="LIVE | ASTRO",History HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6799
-#EXTINF:-1 tvg-id="MY: HGTV HD" tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/VNyhwX6d/HGTV-logo.png" group-title="LIVE | ASTRO",HGTV HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6798
-#EXTINF:-1 tvg-id="MY: HBO HD" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/ryYQc5ZM/hbo-logo.jpg" group-title="LIVE | ASTRO",HBO HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6797
+
+#EXTINF:-1 tvg-id="RTM Sports" tvg-logo="http://tvmalaysia.cc:80/images/8ea5fad488df48902e34c566ac1fc8ec.png" group-title="LIVE | MALAYSIA", RTM Sports
+http://iptv.tvmalaysia.cc:80/932633/932633/7186
+
+#EXTINF:-1 tvg-id="tv1.my" tvg-logo="http://tvmalaysia.cc:80/images/3a5bd2db93ff7c8fa8cfa766ec51481b.png" group-title="LIVE | MALAYSIA", TV 1
+http://iptv.tvmalaysia.cc:80/932633/932633/7177
+
+#EXTINF:-1 tvg-id="tv2.my" tvg-logo="http://tvmalaysia.cc:80/images/881a902a067b6a619e8dd491e704964c.png" group-title="LIVE | MALAYSIA", TV 2
+http://iptv.tvmalaysia.cc:80/932633/932633/7178
+
+#EXTINF:-1 tvg-id="tv3.my" tvg-logo="http://tvmalaysia.cc:80/images/d2e7bd5a77dd8889b8723fb17c2e8bc7.png" group-title="LIVE | MALAYSIA", TV 3
+http://iptv.tvmalaysia.cc:80/932633/932633/7266
+
+#EXTINF:-1 tvg-id="tv3.my" tvg-logo="http://tvmalaysia.cc:80/images/d2e7bd5a77dd8889b8723fb17c2e8bc7.png" group-title="LIVE | MALAYSIA", TV 3 HD
+http://iptv.tvmalaysia.cc:80/932633/932633/8750
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/LsbwxxGt/04d73bd40aaf937296d26.png" group-title="LIVE | MALAYSIA", TV6
+https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
+#EXTINF:-1 tvg-id="ntv7.my" tvg-logo="https://telegra.ph/file/e329e809e30ac4c5c8414.png" group-title="LIVE | MALAYSIA", Didik TV (NTV 7)
+http://iptv.tvmalaysia.cc:80/932633/932633/8922
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/f2c2cb5788798387b952f.png" group-title="LIVE | MALAYSIA", TV8
+http://livegopanel.club:8080/Patrick/Patrick/9606
+
+#EXTINF:-1 tvg-id="tv9.my" tvg-logo="http://tvmalaysia.cc:80/images/4cc2f264fadb0fe24376bd9dc1cae3f7.png" group-title="LIVE | MALAYSIA", TV 9
+http://iptv.tvmalaysia.cc:80/932633/932633/7185
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png" group-title="LIVE | MALAYSIA", Drama Sangat
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="114" tvg-logo="https://telegra.ph/file/d32f701ade54ad5a6bc6e.png" group-title="LIVE | MALAYSIA", Al-Hijrah CH114
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="animalplanet.my" tvg-logo="http://tvmalaysia.cc:80/images/31a651c00450427d27fca4ef7c465b89.jpg" group-title="LIVE | MALAYSIA", TV IKIM
+http://iptv.tvmalaysia.cc:80/932633/932633/7192
+
+#EXTINF:-1 tvg-id="beritartm.my" tvg-logo="http://tvmalaysia.cc:80/images/47e157d2927a350f7881bfe6a377da74.jpg" group-title="LIVE | MALAYSIA", Berita RTM
+http://iptv.tvmalaysia.cc:80/932633/932633/7191
+
+#EXTINF:-1 tvg-id="bernamatv.my" tvg-logo="http://tvmalaysia.cc:80/images/34b4aab4d257e7d335f410bf3decafe2.png" group-title="LIVE | MALAYSIA", BERNAMA
+http://iptv.tvmalaysia.cc:80/932633/932633/7190
+
+#EXTINF:-1 tvg-id="astroceria.my" tvg-logo="http://tvmalaysia.cc:80/images/0bb9f1ec6575c3609eb8af6c1ba0e154.jpg" group-title="LIVE | KIDS CHANNEL", ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6715
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png" group-title="LIVE | KIDS CHANNEL", Nickelodeon
+http://iptv.tvmalaysia.cc:80/932633/932633/7201
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png" group-title="LIVE | KIDS CHANNEL", Nickelodeon Junior
+http://bit.ly/NickJr360p
+
+#EXTINF:-1 tvg-id="719" tvg-logo="https://telegra.ph/file/dcef753db1be1cb9e5ce4.png" group-title="LIVE | KIDS CHANNEL", Animax CH719
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6696
+
+#EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-logo="https://telegra.ph/file/f5e9a3d984763b65102ec.png" group-title="LIVE | KIDS CHANNEL", Cartoon Network FHD
+http://iptv.tvmalaysia.cc:80/932633/932633/7200
+
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://telegra.ph/file/f744ebdcac7e8b8ee62d0.png" group-title="LIVE | KIDS CHANNEL", Disney Channel HD
+http://iptv.tvmalaysia.cc:80/932633/932633/7196
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://telegra.ph/file/468822337c928926dd081.png" group-title="LIVE | KIDS CHANNEL", Disney Junior
+http://iptv.tvmalaysia.cc:80/932633/932633/7197
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/376b7cc3c698f1432e499.png" group-title="LIVE | KIDS CHANNEL", Aniplus INDO
+http://livegopanel.club:8080/Patrick/Patrick/28708
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/8630ed8bde0bdfd0c3dbf.png" group-title="LIVE | KIDS CHANNEL", Boomerang
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/f72c5ea067757078f14e0.png" group-title="LIVE | KIDS CHANNEL", Disney XD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20233
+
+#EXTINF:-1 tvg-id="Tom & Jerry HD" tvg-logo="http://tvmalaysia.cc:80/images/f4e3c658251f8ca3542a5887c8f548b9.png" group-title="LIVE | KIDS CHANNEL", Tom & Jerry HD
+http://iptv.tvmalaysia.cc:80/932633/932633/8986
+
+#EXTINF:-1 tvg-id="Nicktoons FHD" tvg-logo="https://i.postimg.cc/0QnpPNqP/1626106111032.png" group-title="LIVE | KIDS CHANNEL", Nicktoons FHD
+http://iptv.tvmalaysia.cc:80/932633/932633/7202
+
+#EXTINF:-1 tvg-id="RTM Sports" tvg-logo="http://tvmalaysia.cc:80/images/8ea5fad488df48902e34c566ac1fc8ec.png" group-title="LIVE | SPORTS", RTM Sports
+http://iptv.tvmalaysia.cc:80/932633/932633/7186
+
+#EXTINF:-1 tvg-id="astroarena.my" tvg-logo="http://tvmalaysia.cc:80/images/d1e698ea9e88d4c850feb60f8d954ce5.jpg" group-title="LIVE | SPORTS", ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6707
+
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="http://tvmalaysia.cc:80/images/75cc9241f13d21de8368834292db1592.png" group-title="LIVE | SPORTS", ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6708
+
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="http://tvmalaysia.cc:80/images/e3c388f0dceef7b0bf46c2525f8cc4f1.png" group-title="LIVE | SPORTS", ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6710
+
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="http://tvmalaysia.cc:80/images/a4088df4e560d3b64125b924fd46236c.png" group-title="LIVE | SPORTS", ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6711
+
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-logo="http://tvmalaysia.cc:80/images/883b8a176132d660fdce1d14f2bfaf7e.png" group-title="LIVE | SPORTS", ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6712
+
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-logo="http://tvmalaysia.cc:80/images/ff177c5033f26448c4af4c910a14984c.png" group-title="LIVE | SPORTS", ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/932633/932633/6717
+
+#EXTINF:-1 tvg-id="foxsports1.my" tvg-logo="http://tvmalaysia.cc:80/images/d51737bd55904a2635fffc31fbcbddda.png" group-title="LIVE | SPORTS", FOX Sports HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6793
+
+#EXTINF:-1 tvg-id="foxsports2.my" tvg-logo="http://tvmalaysia.cc:80/images/18b0b3d407af464a53c378fab0f897cd.png" group-title="LIVE | SPORTS", FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6791
+
+#EXTINF:-1 tvg-id="foxsports3.my" tvg-logo="http://tvmalaysia.cc:80/images/6295d50d665d4e35bd56f0cf6a01b3da.png" group-title="LIVE | SPORTS", FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6792
+
+#EXTINF:-1 tvg-id="beinsports.my" tvg-logo="http://tvmalaysia.cc:80/images/6b747581bd9a32ce47686fd2f486d509.png" group-title="LIVE | SPORTS", beIN Sports
+http://iptv.tvmalaysia.cc:80/932633/932633/6749
+
+#EXTINF:-1 tvg-id="beinsportsmax.my" tvg-logo="http://tvmalaysia.cc:80/images/d339916b681e912fa219a6eae2127dbc.png" group-title="LIVE | SPORTS", beIN MAX
+http://iptv.tvmalaysia.cc:80/932633/932633/6748
+
+#EXTINF:-1 tvg-id="beIN MAX 2" tvg-logo="http://tvmalaysia.cc:80/images/25c358ffb322d20078dcd7507903bfe0.png" group-title="LIVE | SPORTS", beIN MAX 2
+http://iptv.tvmalaysia.cc:80/932633/932633/7195
+
+#EXTINF:-1 tvg-id="SA: BEIN SPORTS HD1 ARABIC" tvg-logo="http://tvmalaysia.cc:80/images/06d5976044ac1e15c86715663c3757f0.png" group-title="LIVE | SPORTS", BeIN Sport 1
+http://iptv.tvmalaysia.cc:80/932633/932633/6597
+
+#EXTINF:-1 tvg-id="SA: BEIN SPORTS HD2 ARABIC" tvg-logo="https://i.postimg.cc/wxh6K4F8/1606697373987.png" group-title="LIVE | SPORTS", BeIN Sport 2
+http://iptv.tvmalaysia.cc:80/932633/932633/6598
+
+#EXTINF:-1 tvg-id="SA: BEIN SPORTS HD13 ARABIC" tvg-logo="https://i.postimg.cc/cHkkPSjM/1606697595212.png" group-title="LIVE | SPORTS", BeIN Sport 13
+http://iptv.tvmalaysia.cc:80/932633/932633/6609
+
+#EXTINF:-1 tvg-id="MY: WWE NETWORK HD" tvg-logo="http://tvmalaysia.cc:80/images/fe2f1947f90a1fca6f1d3c8e2f2e8054.jpg" group-title="LIVE | SPORTS", WWE Network
+http://iptv.tvmalaysia.cc:80/932633/932633/6849
+
+#EXTINF:-1 tvg-id="MY: RUGBYPASS TV HD" tvg-logo="http://tvmalaysia.cc:80/images/98991a2582751895902809093633b033.png" group-title="LIVE | SPORTS", Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/932633/932633/6821
+
+#EXTINF:-1 tvg-id="MY: GOLF CHANNEL HD" tvg-logo="http://tvmalaysia.cc:80/images/1eb1cee8b5e1c96e92721e3ca5ab59d5.jpg" group-title="LIVE | SPORTS", Golf Channel HD
+http://iptv.tvmalaysia.cc:80/932633/932633/6796
+
+#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.postimg.cc/XqcNTZMk/643-6431333-tsn-transparent-tsn-logo-hd-png-download.jpg" group-title="LIVE | SPORTS", TSN 1
+http://iptv.tvmalaysia.cc:80/932633/932633/8923
+
+#EXTINF:-1 tvg-id="TSN 2" tvg-logo="https://i.postimg.cc/XqcNTZMk/643-6431333-tsn-transparent-tsn-logo-hd-png-download.jpg" group-title="LIVE | SPORTS", TSN 2
+http://iptv.tvmalaysia.cc:80/932633/932633/8924
+
+#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://i.postimg.cc/XqcNTZMk/643-6431333-tsn-transparent-tsn-logo-hd-png-download.jpg" group-title="LIVE | SPORTS", TSN 3
+http://iptv.tvmalaysia.cc:80/932633/932633/8925
+
+#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://i.postimg.cc/XqcNTZMk/643-6431333-tsn-transparent-tsn-logo-hd-png-download.jpg" group-title="LIVE | SPORTS", TSN 4
+http://iptv.tvmalaysia.cc:80/932633/932633/8926
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport Grandstand" tvg-logo="http://tvmalaysia.cc:80/images/00a1963343aee029f0681c170638ecef.png" group-title="LIVE | SPORTS", DSTV: SuperSport Grandstand
+http://iptv.tvmalaysia.cc:80/932633/932633/6572
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport PSL" tvg-logo="http://tvmalaysia.cc:80/images/eba84552ef0a472f1627f2e1dbf6c9cd.png" group-title="LIVE | SPORTS", DSTV: SuperSport PSL
+http://iptv.tvmalaysia.cc:80/932633/932633/6573
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport Premier League" tvg-logo="http://tvmalaysia.cc:80/images/ebf60d1fcc0262145640d812f1bed395.png" group-title="LIVE | SPORTS", DSTV: SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/932633/932633/6574
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport La Liga" tvg-logo="http://tvmalaysia.cc:80/images/b674bea2086e1a86466b75fb7fcae449.png" group-title="LIVE | SPORTS", DSTV: SuperSport La Liga
+http://iptv.tvmalaysia.cc:80/932633/932633/6575
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport Football" tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png" group-title="LIVE | SPORTS", DSTV: SuperSport Football
+http://iptv.tvmalaysia.cc:80/932633/932633/6576
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport Variety 1" tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png" group-title="LIVE | SPORTS", DSTV: SuperSport Variety 1
+http://iptv.tvmalaysia.cc:80/932633/932633/6577
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport Variety 2" tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png" group-title="LIVE | SPORTS", DSTV: SuperSport Variety 2
+http://iptv.tvmalaysia.cc:80/932633/932633/6578
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport Variety 3" tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png" group-title="LIVE | SPORTS", DSTV: SuperSport Variety 3
+http://iptv.tvmalaysia.cc:80/932633/932633/6579
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport Variety 4" tvg-logo="http://tvmalaysia.cc:80/images/46444ad845a9c8218b1b89bdacb94db5.png" group-title="LIVE | SPORTS", DSTV: SuperSport Variety 4
+http://iptv.tvmalaysia.cc:80/932633/932633/6580
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport Cricket" tvg-logo="http://tvmalaysia.cc:80/images/87f9188df2215a476290fa0e98b0e751.png" group-title="LIVE | SPORTS", DSTV: SuperSport Cricket
+http://iptv.tvmalaysia.cc:80/932633/932633/6583
+
+#EXTINF:-1 tvg-id="DSTV: Supersport Blitz" tvg-logo="http://tvmalaysia.cc:80/images/8f71d3b3bffb6d36ceb62f00466400fe.png" group-title="LIVE | SPORTS", DSTV: Supersport Blitz
+http://iptv.tvmalaysia.cc:80/932633/932633/6584
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport MáXimo" tvg-logo="http://tvmalaysia.cc:80/images/019630abd24d8e8864be46b4b6958469.png" group-title="LIVE | SPORTS", DSTV: SuperSport MáXimo
+http://iptv.tvmalaysia.cc:80/932633/932633/6585
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport Rugby" tvg-logo="http://tvmalaysia.cc:80/images/db23cec4763902ab6e0a85f67a85ec85.png" group-title="LIVE | SPORTS", DSTV: SuperSport Rugby
+http://iptv.tvmalaysia.cc:80/932633/932633/6582
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport Action" tvg-logo="http://tvmalaysia.cc:80/images/d00cd45de85ca6b516ec4eabc6dee644.png" group-title="LIVE | SPORTS", DSTV: SuperSport Action
+http://iptv.tvmalaysia.cc:80/932633/932633/6581
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport Motorsport" tvg-logo="http://tvmalaysia.cc:80/images/e1e9009280ca2bd4f72fdced323cebae.png" group-title="LIVE | SPORTS", DSTV: SuperSport Motorsport
+http://iptv.tvmalaysia.cc:80/932633/932633/7142
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport Tennis" tvg-logo="https://i.postimg.cc/prhfQQbf/1613351683433.png" group-title="LIVE | SPORTS", DSTV: SuperSport Tennis
+http://iptv.tvmalaysia.cc:80/932633/932633/7143
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport WWE" tvg-logo="https://i.postimg.cc/x1RzzpNr/1613350615698.png" group-title="LIVE | SPORTS", DSTV: SuperSport WWE
+http://iptv.tvmalaysia.cc:80/932633/932633/7144
+
+#EXTINF:-1 tvg-id="DSTV: SuperSport Golf" tvg-logo="https://i.postimg.cc/2jM3LRHL/1613350336105.png" group-title="LIVE | SPORTS", DSTV: SuperSport Golf
+http://iptv.tvmalaysia.cc:80/932633/932633/7145
+
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg" group-title="LIVE | SPORTS", BT Sport 1
+http://iptv.tvmalaysia.cc:80/932633/932633/6610
+
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="LIVE | SPORTS", BT Sport 2
+http://iptv.tvmalaysia.cc:80/932633/932633/6611
+
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-logo="http://tvmalaysia.cc:80/images/68bf1684f7f44c02fc3d3a3be13b510f.jpg" group-title="LIVE | SPORTS", BT Sport 3
+http://iptv.tvmalaysia.cc:80/932633/932633/6612
+
+#EXTINF:-1 tvg-id="BT Sport ESPN" tvg-logo="http://tvmalaysia.cc:80/images/38d170f4abf9bf163ba3ac527b37ae72.jpg" group-title="LIVE | SPORTS", BT Sport ESPN
+http://iptv.tvmalaysia.cc:80/932633/932633/6613
+
+#EXTINF:-1 tvg-id="UK: Premier Sports 1" tvg-logo="https://i.postimg.cc/SN2mJK5v/a95.png" group-title="LIVE | SPORTS", UK: Premier Sports 1
+http://iptv.tvmalaysia.cc:80/932633/932633/7112
+
+#EXTINF:-1 tvg-id="UK: Premier Sports 2" tvg-logo="https://i.postimg.cc/J7yhBKHx/a1442.png" group-title="LIVE | SPORTS", UK: Premier Sports 2
+http://iptv.tvmalaysia.cc:80/932633/932633/7113
+
+#EXTINF:-1 tvg-id="UK: Sky Sports News" tvg-logo="http://tvmalaysia.cc:80/images/5e99aed2ec2d9b812674d012bb467ad8.jpg" group-title="LIVE | SPORTS", UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/932633/932633/6614
+
+#EXTINF:-1 tvg-id="UK: Sky Sports Arena" tvg-logo="http://tvmalaysia.cc:80/images/62a88170b4d23cef2f5dcab8c83c882a.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Arena
+http://iptv.tvmalaysia.cc:80/932633/932633/6615
+
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-logo="http://tvmalaysia.cc:80/images/2f4e8a56c74335dad8c11c742243ea8e.jpg" group-title="LIVE | SPORTS", UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/932633/932633/6617
+
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-logo="http://tvmalaysia.cc:80/images/48edb52948eec885dc7fcb3aa0115781.png" group-title="LIVE | SPORTS", UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/932633/932633/6618
+
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-logo="http://tvmalaysia.cc:80/images/5018ec7514f120bfba08d989ccbc9b65.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/932633/932633/6620
+
+#EXTINF:-1 tvg-id="UK: Sky Sports Premier League" tvg-logo="https://i.postimg.cc/kGr6Yktn/IMG-20210105-105040.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Premier League
+http://iptv.tvmalaysia.cc:80/932633/932633/6621
+
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-logo="http://tvmalaysia.cc:80/images/c80ade5bf94d0648997febfd77daad04.png" group-title="LIVE | SPORTS", UK: Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/932633/932633/6619
+
+#EXTINF:-1 tvg-id="UK: Sky Sports Racing" tvg-logo="https://i.postimg.cc/CKyND6cV/IMG-20210105-104354.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Racing
+http://iptv.tvmalaysia.cc:80/932633/932633/7114
+
+#EXTINF:-1 tvg-id="UK: Sky Sports Main Event" tvg-logo="https://i.postimg.cc/mZF73SFL/IMG-20210105-104902.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Main Event
+http://iptv.tvmalaysia.cc:80/932633/932633/7115
+
+#EXTINF:-1 tvg-id="UK: Sky Sports Mix" tvg-logo="https://i.postimg.cc/bJxFsjPM/IMG-20210105-104056.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Mix
+http://iptv.tvmalaysia.cc:80/932633/932633/7116
+
+#EXTINF:-1 tvg-id="MUTV" tvg-logo="http://tvmalaysia.cc:80/images/00df33989b0bbd6c33616c9c6e22d63b.png" group-title="LIVE | SPORTS", MUTV
+http://iptv.tvmalaysia.cc:80/932633/932633/7236
+
+#EXTINF:-1 tvg-id="LFC TV" tvg-logo="http://tvmalaysia.cc:80/images/8e5e2fa700bc778be1119e3eab7ee709.png" group-title="LIVE | SPORTS", LFC TV
+http://iptv.tvmalaysia.cc:80/932633/932633/7237
+
+#EXTINF:-1 tvg-id="UFC" tvg-logo="noimage.png" group-title="LIVE | SPORTS", UFC
+http://iptv.tvmalaysia.cc:80/932633/932633/7259
+
+#EXTINF:-1 tvg-id="UFC PPV Early Prelims" tvg-logo="noimage.png" group-title="LIVE | SPORTS", UFC PPV Early Prelims
+http://iptv.tvmalaysia.cc:80/932633/932633/7260
+
+#EXTINF:-1 tvg-id="UFC PPV Prelims" tvg-logo="noimage.png" group-title="LIVE | SPORTS", UFC PPV Prelims
+http://iptv.tvmalaysia.cc:80/932633/932633/7261
+
+#EXTINF:-1 tvg-id="UFC PPV Main Card" tvg-logo="noimage.png" group-title="LIVE | SPORTS", UFC PPV Main Card
+http://iptv.tvmalaysia.cc:80/932633/932633/7262
+
+#EXTINF:-1 tvg-id="PPV Boxing" tvg-logo="noimage.png" group-title="LIVE | SPORTS", PPV Boxing
+http://iptv.tvmalaysia.cc:80/932633/932633/7263
+
+#EXTINF:-1 tvg-id="LowBW UFC PPV Main Card" tvg-logo="noimage.png" group-title="LIVE | SPORTS", LowBW UFC PPV Main Card
+http://iptv.tvmalaysia.cc:80/932633/932633/7265
+
+#EXTINF:-1 tvg-id="FS 1" tvg-logo="noimage.png" group-title="LIVE | SPORTS", FS 1
+http://iptv.tvmalaysia.cc:80/932633/932633/9003
+
+#EXTINF:-1 tvg-id="hbohd.id" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="LIVE | MOVIE", HBO FHD
+http://iptv.tvmalaysia.cc:80/932633/932633/7067
+
+#EXTINF:-1 tvg-id="hbohitshd.id" tvg-logo="http://tvmalaysia.cc:80/images/dde6d5223d908187cdc7941755aeb078.jpg" group-title="LIVE | MOVIE", HBO Hits FHD
+http://iptv.tvmalaysia.cc:80/932633/932633/7068
+
+#EXTINF:-1 tvg-id="hbofamilyhd.id" tvg-logo="http://tvmalaysia.cc:80/images/edd35b48dea4ae392512307e9adb7fcd.png" group-title="LIVE | MOVIE", HBO Family FHD
+http://iptv.tvmalaysia.cc:80/932633/932633/7070
+
+#EXTINF:-1 tvg-id="hbosignaturehd.id" tvg-logo="http://tvmalaysia.cc:80/images/70c49744e9d20d7018631a3968bed6a2.png" group-title="LIVE | MOVIE", HBO Signature FHD
+http://iptv.tvmalaysia.cc:80/932633/932633/7069
+
+#EXTINF:-1 tvg-id="Red By HBO HD" tvg-logo="http://tvmalaysia.cc:80/images/30b3db0865e095679afe6d133e395059.jpg" group-title="LIVE | MOVIE", Red By HBO HD
+http://iptv.tvmalaysia.cc:80/932633/932633/7071
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/qvtFDPH1/1625886840844.png" group-title="LIVE | MOVIE", &FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/T2LtnZg0/images-2.jpg" group-title="LIVE | MOVIE", &PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="foxmoviespremiumhd.id" tvg-logo="http://tvmalaysia.cc:80/images/063a1e48ae1996a258b35db937d48c9b.jpg" group-title="LIVE | MOVIE", Fox Movies Premium
+http://iptv.tvmalaysia.cc:80/932633/932633/8838
+
+#EXTINF:-1 tvg-id="foxactionmovieshd.id" tvg-logo="http://tvmalaysia.cc:80/images/5501142a5bf997c0fa17c6b39d848e1b.png" group-title="LIVE | MOVIE", Fox Action Movies
+http://iptv.tvmalaysia.cc:80/932633/932633/8839
+
+#EXTINF:-1 tvg-id="cinemax.id" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="LIVE | MOVIE", Cinemax FHD
+http://iptv.tvmalaysia.cc:80/932633/932633/7062
+
+#EXTINF:-1 tvg-id="hitsmovies.id" tvg-logo="http://tvmalaysia.cc:80/images/b2edde7e3fcfc5cf87738f80ce5e1336.png" group-title="LIVE | MOVIE", Hits Movies
+http://iptv.tvmalaysia.cc:80/932633/932633/7066
+
+#EXTINF:-1 tvg-id="warnertv.id" tvg-logo="http://tvmalaysia.cc:80/images/85fd03e3d30040c99bfcec3cbb51cbe1.png" group-title="LIVE | MOVIE", Warner TV HD
+http://iptv.tvmalaysia.cc:80/932633/932633/7072
+
+#EXTINF:-1 tvg-id="tvnmovies.id" tvg-logo="http://tvmalaysia.cc:80/images/4b198ded39b98f40cd51bb35e638b9f3.png" group-title="LIVE | MOVIE", tVN movies HD
+http://iptv.tvmalaysia.cc:80/932633/932633/7074
+
+#EXTINF:-1 tvg-id="ID: CINEMA WORLD HD" tvg-logo="http://tvmalaysia.cc:80/images/b915cd06c3407ad6dc1b128abfa207fc.jpg" group-title="LIVE | MOVIE", Cinema World
+http://iptv.tvmalaysia.cc:80/932633/932633/7219
+
+#EXTINF:-1 tvg-id="thrill.id" tvg-logo="http://tvmalaysia.cc:80/images/963c196b98b7111073c3ae49f91f3d3f.jpg" group-title="LIVE | MOVIE", Thrill
+http://iptv.tvmalaysia.cc:80/932633/932633/7220
+
+#EXTINF:-1 tvg-id="axnhd.id" tvg-logo="http://tvmalaysia.cc:80/images/7890c2461a7545adcc4b2050f334a152.jpg" group-title="LIVE | MOVIE", AXN
+http://iptv.tvmalaysia.cc:80/932633/932633/7223
+
+#EXTINF:-1 tvg-id="foxcrime.id" tvg-logo="http://tvmalaysia.cc:80/images/956e6c6e1bf91476f99d573849bbe706.jpg" group-title="LIVE | MOVIE", Fox Crime
+http://iptv.tvmalaysia.cc:80/932633/932633/7225
+
+#EXTINF:-1 tvg-id="foxhd.id" tvg-logo="http://tvmalaysia.cc:80/images/fb4a91d4d15cd876e63f4b83a35b2ce4.png" group-title="LIVE | MOVIE", FOX
+http://iptv.tvmalaysia.cc:80/932633/932633/7227
+
+#EXTINF:-1 tvg-id="foxlife.id" tvg-logo="http://tvmalaysia.cc:80/images/d6161eaf1dfd7140aac03dcdc9f87b3e.png" group-title="LIVE | MOVIE", Fox Life
+http://iptv.tvmalaysia.cc:80/932633/932633/7228
+
+#EXTINF:-1 tvg-id="kix.id" tvg-logo="http://tvmalaysia.cc:80/images/c9d2b55dea34704104efde328f0436a3.png" group-title="LIVE | MOVIE", KiX
+http://iptv.tvmalaysia.cc:80/932633/932633/7229
+
+#EXTINF:-1 tvg-id="ccm.id" tvg-logo="http://tvmalaysia.cc:80/images/895f475aeff0da729ad1e5f21a450875.jpg" group-title="LIVE | MOVIE", Celestial Classic Movies.
+http://iptv.tvmalaysia.cc:80/932633/932633/7222
+
+#EXTINF:-1 tvg-id="celestialmovies.id" tvg-logo="http://tvmalaysia.cc:80/images/00a16262a08aa5b141f58e660f016339.jpg" group-title="LIVE | MOVIE", Celestial Movies
+http://iptv.tvmalaysia.cc:80/932633/932633/7235
+
+#EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="http://tvmalaysia.cc:80/images/ac70f22a3e263c94424e4f488136489e.png" group-title="LIVE | MOVIE", Star Movies HD
+http://iptv.tvmalaysia.cc:80/932633/932633/8997
+
+#EXTINF:-1 tvg-id="MNX" tvg-logo="noimage.png" group-title="LIVE | MOVIE", MNX
+http://iptv.tvmalaysia.cc:80/932633/932633/8998
+
+#EXTINF:-1 tvg-id="Movies Now" tvg-logo="noimage.png" group-title="LIVE | MOVIE", Movies Now
+http://iptv.tvmalaysia.cc:80/932633/932633/8999
+
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.id" tvg-logo="noimage.png" group-title="LIVE | DOCUMENTARY", National Geographic HD
+http://iptv.tvmalaysia.cc:80/932633/932633/7075
+
+#EXTINF:-1 tvg-id="nationalgeographicwild.id" tvg-logo="http://tvmalaysia.cc:80/images/e2979414687cca56146fca4a970f9cc3.jpg" group-title="LIVE | DOCUMENTARY", Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/932633/932633/7081
+
+#EXTINF:-1 tvg-id="nationalgeographicpeople.id" tvg-logo="http://tvmalaysia.cc:80/images/78805a221a988e79ef3f42d7c5bfd418.jpg" group-title="LIVE | DOCUMENTARY", Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/932633/932633/7080
+
+#EXTINF:-1 tvg-id="history.id" tvg-logo="http://tvmalaysia.cc:80/images/5aa0da4bfe8327c96a0e9193c5e2d75c.png" group-title="LIVE | DOCUMENTARY", History FHD
+http://iptv.tvmalaysia.cc:80/932633/932633/7079
+
+#EXTINF:-1 tvg-id="discoverychannel.id" tvg-logo="http://tvmalaysia.cc:80/images/e52fb22b3dcf6f6ba49cbf9a6818680a.png" group-title="LIVE | DOCUMENTARY", Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/932633/932633/7078
+
+#EXTINF:-1 tvg-id="animalplanet.id" tvg-logo="http://tvmalaysia.cc:80/images/441c5d4032843609fda8ea2886e3c205.png" group-title="LIVE | DOCUMENTARY", Animal Planet
+http://iptv.tvmalaysia.cc:80/932633/932633/7077
+
+#EXTINF:-1 tvg-id="hgtv.id" tvg-logo="http://tvmalaysia.cc:80/images/4fbf759d882bba8bf2f629a61df99878.png" group-title="LIVE | DOCUMENTARY", HGTV
+http://iptv.tvmalaysia.cc:80/932633/932633/7076
+
+#EXTINF:-1 tvg-id="bbcearth.id" tvg-logo="http://tvmalaysia.cc:80/images/e8dc4f32f701d0c5f9af8fc74bd5b85a.png" group-title="LIVE | DOCUMENTARY", BBC Earth
+http://iptv.tvmalaysia.cc:80/932633/932633/7233
+
+#EXTINF:-1 tvg-id="discoveryasia.my" tvg-logo="http://iptv.lancar.tech:25461/abudi-restream-package/tSd7fr6aKK/90" group-title="LIVE | DOCUMENTARY", Discovery Asia.
+http://iptv.tvmalaysia.cc:80/932633/932633/8856
+
+#EXTINF:-1 tvg-id="asianfoodchannel.id" tvg-logo="noimage.png" group-title="LIVE | VARIETY", Asia Food Network
+http://iptv.tvmalaysia.cc:80/932633/932633/8857
+
+#EXTINF:-1 tvg-id="crimeinvestigation.id" tvg-logo="noimage.png" group-title="LIVE | VARIETY", Crime & Investigation
+http://iptv.tvmalaysia.cc:80/932633/932633/8858
+
+#EXTINF:-1 tvg-id="blueantentertainment.id" tvg-logo="noimage.png" group-title="LIVE | VARIETY", Blue Ant Entertainment
+http://iptv.tvmalaysia.cc:80/932633/932633/8860
+
+#EXTINF:-1 tvg-id="blueantextreme.id" tvg-logo="noimage.png" group-title="LIVE | VARIETY", Blue Ant Extreme
+http://iptv.tvmalaysia.cc:80/932633/932633/8861
+
+#EXTINF:-1 tvg-id="tlc.id" tvg-logo="noimage.png" group-title="LIVE | VARIETY", TLC
+http://iptv.tvmalaysia.cc:80/932633/932633/8862
+
+#EXTINF:-1 tvg-id="sonyonehd.id" tvg-logo="noimage.png" group-title="LIVE | KOREA", Sony One
+http://iptv.tvmalaysia.cc:80/932633/932633/8863
+
+#EXTINF:-1 tvg-id="Sony Gem" tvg-logo="noimage.png" group-title="LIVE | KOREA", Sony Gem
+http://iptv.tvmalaysia.cc:80/932633/932633/8864
+
+#EXTINF:-1 tvg-id="TvN" tvg-logo="noimage.png" group-title="LIVE | KOREA", TvN
+http://iptv.tvmalaysia.cc:80/932633/932633/8865
+
