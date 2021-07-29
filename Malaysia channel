@@ -113,7 +113,7 @@ http://iptv.tvmalaysia.cc:80/932633/932633/6741
 #EXTINF:-1 tvg-id="astrobollyone.my" tvg-logo="https://i.postimg.cc/fySj2rNy/ABO-Bolly-One.png" group-title="LIVE | ASTRO", BollyOne HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6754
 
-#EXTINF:-1 tvg-id="RTM Sports" tvg-logo="http://tvmalaysia.cc:80/images/8ea5fad488df48902e34c566ac1fc8ec.png" group-title="LIVE | MALAYSIA", RTM Sports
+#EXTINF:-1 tvg-id="RTM Sports" tvg-logo="http://tvmalaysia.cc:80/images/8ea5fad488df48902e34c566ac1fc8ec.png" group-title="LIVE | MALAYSIA", RTM Sports 
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv1.my" tvg-logo="http://tvmalaysia.cc:80/images/3a5bd2db93ff7c8fa8cfa766ec51481b.png" group-title="LIVE | MALAYSIA", TV 1
