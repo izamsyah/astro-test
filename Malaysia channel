@@ -122,11 +122,11 @@ http://iptv.tvmalaysia.cc:80/932633/932633/7177
 #EXTINF:-1 tvg-id="tv2.my" tvg-logo="http://tvmalaysia.cc:80/images/881a902a067b6a619e8dd491e704964c.png" group-title="LIVE | MALAYSIA", TV 2
 http://iptv.tvmalaysia.cc:80/932633/932633/7178
 
-#EXTINF:-1 tvg-id="tv3.my" tvg-logo="http://tvmalaysia.cc:80/images/d2e7bd5a77dd8889b8723fb17c2e8bc7.png" group-title="LIVE | MALAYSIA", TV 3
-http://iptv.tvmalaysia.cc:80/932633/932633/7266
+#EXTINF:-1 tvg-id="tv3.my" tvg-logo="http://tvmalaysia.cc:80/images/d2e7bd5a77dd8889b8723fb17c2e8bc7.png" group-title="LIVE | MALAYSIA", TV 3-A
+http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv3.my" tvg-logo="http://tvmalaysia.cc:80/images/d2e7bd5a77dd8889b8723fb17c2e8bc7.png" group-title="LIVE | MALAYSIA", TV 3 HD
-http://iptv.tvmalaysia.cc:80/932633/932633/8750
+#EXTINF:-1 tvg-id="tv3.my" tvg-logo="http://tvmalaysia.cc:80/images/d2e7bd5a77dd8889b8723fb17c2e8bc7.png" group-title="LIVE | MALAYSIA", TV 3-B
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/LsbwxxGt/04d73bd40aaf937296d26.png" group-title="LIVE | MALAYSIA", TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
