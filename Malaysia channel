@@ -180,16 +180,16 @@ http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 http://zalogitv.tech:8080/mastro77/m4str0/1465
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/8630ed8bde0bdfd0c3dbf.png" group-title="LIVE | KIDS CHANNEL", Boomerang
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
+http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/f72c5ea067757078f14e0.png" group-title="LIVE | KIDS CHANNEL", Disney XD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20233
+http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8 
 
 #EXTINF:-1 tvg-id="Tom & Jerry HD" tvg-logo="http://tvmalaysia.cc:80/images/f4e3c658251f8ca3542a5887c8f548b9.png" group-title="LIVE | KIDS CHANNEL", Tom & Jerry HD
 http://iptv.tvmalaysia.cc:80/932633/932633/8986
 
 #EXTINF:-1 tvg-id="Nicktoons FHD" tvg-logo="https://i.postimg.cc/0QnpPNqP/1626106111032.png" group-title="LIVE | KIDS CHANNEL", Nicktoons FHD
-http://iptv.tvmalaysia.cc:80/932633/932633/7202
+http://livegopanel.club:8080/Patrick/Patrick/10662 
 
 #EXTINF:-1 tvg-id="RTM Sports" tvg-logo="http://tvmalaysia.cc:80/images/8ea5fad488df48902e34c566ac1fc8ec.png" group-title="LIVE | SPORTS", RTM Sports
 http://iptv.tvmalaysia.cc:80/932633/932633/7186
