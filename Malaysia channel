@@ -33,7 +33,7 @@ http://directn.mrnova.online/live/60049_.m3u8?token=ndirect50k
 http://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-id="astrooasis.my" tvg-logo="https://i.postimg.cc/28BpR8Gc/Astro-Oasis.png" group-title="LIVE | ASTRO", ASTRO Oasis HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6725
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="astroria.my" tvg-logo="https://i.postimg.cc/L8kDdr1g/images-9.png" group-title="LIVE | ASTRO", ASTRO Ria HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6730
