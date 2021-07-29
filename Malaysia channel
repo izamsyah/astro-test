@@ -119,7 +119,7 @@ http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 #EXTINF:-1 tvg-id="tv1.my" tvg-logo="http://tvmalaysia.cc:80/images/3a5bd2db93ff7c8fa8cfa766ec51481b.png" group-title="LIVE | MALAYSIA", TV 1
 http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv2.my" tvg-logo="http://tvmalaysia.cc:80/images/881a902a067b6a619e8dd491e704964c.png" group-title="LIVE | MALAYSIA", TV 2 
+#EXTINF:-1 tvg-id="tv2.my" tvg-logo="http://tvmalaysia.cc:80/images/881a902a067b6a619e8dd491e704964c.png" group-title="LIVE | MALAYSIA", TV 2
 http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv3.my" tvg-logo="http://tvmalaysia.cc:80/images/d2e7bd5a77dd8889b8723fb17c2e8bc7.png" group-title="LIVE | MALAYSIA", TV 3-A
