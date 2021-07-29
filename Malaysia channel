@@ -30,7 +30,7 @@ http://directn.mrnova.online/live/60048_.m3u8?token=ndirect50k
 http://directn.mrnova.online/live/60049_.m3u8?token=ndirect50k
 
 #EXTINF:-1 tvg-id="astroawani.my" tvg-logo="https://i.postimg.cc/CLYYJ7vm/images-8.png" group-title="LIVE | ASTRO", ASTRO Awani HD
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+http://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/20210329T021151/ts/135626/sequence271253276.ts
 
 #EXTINF:-1 tvg-id="astrooasis.my" tvg-logo="https://i.postimg.cc/28BpR8Gc/Astro-Oasis.png" group-title="LIVE | ASTRO", ASTRO Oasis HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6725
