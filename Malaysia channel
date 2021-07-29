@@ -173,7 +173,7 @@ http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://telegra.ph/file/f744ebdcac7e8b8ee62d0.png" group-title="LIVE | KIDS CHANNEL", Disney Channel HD
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://telegra.ph/file/468822337c928926dd081.png" group-title="LIVE | KIDS CHANNEL", Disney Junior
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://telegra.ph/file/468822337c928926dd081.png" group-title="LIVE | KIDS CHANNEL", Disney Junior INDO
 http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/376b7cc3c698f1432e499.png" group-title="LIVE | KIDS CHANNEL", Aniplus INDO
