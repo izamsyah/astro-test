@@ -74,8 +74,8 @@ http://iptv.tvmalaysia.cc:80/932633/932633/6705
 #EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 355" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 355 HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6706
 
-#EXTINF:-1 tvg-id="MY: GO SHOP 111" tvg-logo="https://i.postimg.cc/7Pg69fNM/astro-go-resized-2.jpg" group-title="LIVE | ASTRO", ASTRO GO Shop 2
-http://iptv.tvmalaysia.cc:80/932633/932633/6718
+#EXTINF:-1 tvg-id="MY: GO SHOP 111" tvg-logo="https://i.postimg.cc/7Pg69fNM/astro-go-resized-2.jpg" group-title="LIVE | ASTRO", ASTRO GO Shop
+http://aputa87live.wap.sh/dicomotlagidahh_astrgrp/goshopgaaya.m3u8
 
 #EXTINF:-1 tvg-id="MY: iQIYI HD" tvg-logo="https://i.postimg.cc/J0DjYJRQ/IMG-20201125-230926.jpg" group-title="LIVE | ASTRO", ASTRO iQIYI HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6723
