@@ -174,7 +174,7 @@ http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://telegra.ph/file/468822337c928926dd081.png" group-title="LIVE | KIDS CHANNEL", Disney Junior
-http://aputa87live.wap.sh/kds1010/disneyjun.m3u8
+http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/376b7cc3c698f1432e499.png" group-title="LIVE | KIDS CHANNEL", Aniplus INDO
 http://livegopanel.club:8080/Patrick/Patrick/28708
