@@ -75,7 +75,7 @@ http://iptv.tvmalaysia.cc:80/932633/932633/6705
 http://iptv.tvmalaysia.cc:80/932633/932633/6706
 
 #EXTINF:-1 tvg-id="MY: GO SHOP 111" tvg-logo="https://i.postimg.cc/7Pg69fNM/astro-go-resized-2.jpg" group-title="LIVE | ASTRO", ASTRO GO Shop 2
-http://iptv.tvmalaysia.cc:80/932633/932633/6718
+http://aputa87live.wap.sh/dicomotlagidahh_astrgrp/goshopgaaya.m3u8 
 
 #EXTINF:-1 tvg-id="MY: iQIYI HD" tvg-logo="https://i.postimg.cc/J0DjYJRQ/IMG-20201125-230926.jpg" group-title="LIVE | ASTRO", ASTRO iQIYI HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6723
@@ -84,16 +84,16 @@ http://iptv.tvmalaysia.cc:80/932633/932633/6723
 http://iptv.tvmalaysia.cc:80/932633/932633/6722
 
 #EXTINF:-1 tvg-id="MY: HELLO HD" tvg-logo="https://i.postimg.cc/4xGCbQ5s/Astro-HEllo.jpg" group-title="LIVE | ASTRO", ASTRO Hello
-http://iptv.tvmalaysia.cc:80/932633/932633/6721
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="ohk.my" tvg-logo="https://i.postimg.cc/Gpv7q4cY/logo.png" group-title="LIVE | ASTRO", ASTRO Oh!K HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6726
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="MY: ASTRO QUAN JIA HD" tvg-logo="https://i.postimg.cc/KYLTTLZX/QJHD-E.jpg" group-title="LIVE | ASTRO", ASTRO Quan Jia HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6728
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="MY: ASTRO SHUANG XING HD" tvg-logo="https://i.postimg.cc/d1T3TKv5/Astro-Shuang-Xing-2015.png" group-title="LIVE | ASTRO", ASTRO Shuang Xing HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6731
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV PT3" tvg-logo="https://i.postimg.cc/TPTncYQN/TTV-PT3.png" group-title="LIVE | ASTRO", ASTRO Tutor TV PT3
 http://iptv.tvmalaysia.cc:80/932633/932633/6734
@@ -108,10 +108,10 @@ http://iptv.tvmalaysia.cc:80/932633/932633/6736
 http://iptv.tvmalaysia.cc:80/932633/932633/6737
 
 #EXTINF:-1 tvg-id="MY: ASTRO XIAO TAI YANG HD" tvg-logo="https://i.postimg.cc/TYSnS5Xp/images-25.jpg" group-title="LIVE | ASTRO", ASTRO Xiao Tai Yang HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6741
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="astrobollyone.my" tvg-logo="https://i.postimg.cc/fySj2rNy/ABO-Bolly-One.png" group-title="LIVE | ASTRO", BollyOne HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6754
+http://50.7.161.82:8278/streams/d/bollyone_pye/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="RTM Sports" tvg-logo="http://tvmalaysia.cc:80/images/8ea5fad488df48902e34c566ac1fc8ec.png" group-title="LIVE | MALAYSIA", RTM Sports 
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
