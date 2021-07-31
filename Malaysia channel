@@ -56,7 +56,7 @@ http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="astrowarna.my" tvg-logo="https://i.postimg.cc/Kz3MQkSb/Astro-Warna-NEW-1.png" group-title="LIVE | ASTRO", ASTRO Warna-B
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="BooHD" group-title="LIVE | ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png", Boo HD
+#EXTINF:-1 tvg-id="BooHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png" group-title="LIVE | ASTRO", Boo HD
 http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MY: NAURA HD" tvg-logo="https://i.postimg.cc/j21r6DXN/NAURA.png" group-title="LIVE | ASTRO", ASTRO Naura HD
