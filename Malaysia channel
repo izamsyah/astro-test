@@ -71,29 +71,29 @@ http://livegopanel.club:8080/Patrick/Patrick/50891
 #EXTINF:-1 tvg-id="MY: ASTRO AEC HD" tvg-logo="https://i.postimg.cc/SQ98p1Nq/download-11.png" group-title="LIVE | ASTRO", ASTRO AEC HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6701
 
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND HD 311" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 351 HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6702
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND HD 311" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 1 HD
+http://livegopanel.club:8080/Patrick/Patrick/33288
 
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 352" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 352 HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6703
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 352" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 2 HD
+http://livegopanel.club:8080/Patrick/Patrick/33289
 
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 353" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 353 HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6704
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 353" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 3 HD
+http://livegopanel.club:8080/Patrick/Patrick/33290
 
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 354" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 354 HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6705
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 354" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 4 HD
+http://livegopanel.club:8080/Patrick/Patrick/33291
 
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 355" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 355 HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6706
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 355" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="LIVE | ASTRO", ASTRO AOD 5 HD
+http://livegopanel.club:8080/Patrick/Patrick/33292
 
 #EXTINF:-1 tvg-id="MY: GO SHOP 111" tvg-logo="https://i.postimg.cc/7Pg69fNM/astro-go-resized-2.jpg" group-title="LIVE | ASTRO", ASTRO GO Shop 2
 http://aputa87live.wap.sh/dicomotlagidahh_astrgrp/goshopgaaya.m3u8 
 
 #EXTINF:-1 tvg-id="MY: iQIYI HD" tvg-logo="https://i.postimg.cc/J0DjYJRQ/IMG-20201125-230926.jpg" group-title="LIVE | ASTRO", ASTRO iQIYI HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6723
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MY: ASTRO HUA HEE DAI HD" tvg-logo="https://i.postimg.cc/nhMDcByY/IMG-20201125-230458.jpg" group-title="LIVE | ASTRO", ASTRO Hua Hee Dai HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6722
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MY: HELLO HD" tvg-logo="https://i.postimg.cc/4xGCbQ5s/Astro-HEllo.jpg" group-title="LIVE | ASTRO", ASTRO Hello-A
 http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
