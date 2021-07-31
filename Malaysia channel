@@ -51,7 +51,7 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8  
 
 #EXTINF:-1 tvg-id="astrowarna.my" tvg-logo="https://i.postimg.cc/Kz3MQkSb/Astro-Warna-NEW-1.png" group-title="LIVE | ASTRO", ASTRO Warna-A
-http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="astrowarna.my" tvg-logo="https://i.postimg.cc/Kz3MQkSb/Astro-Warna-NEW-1.png" group-title="LIVE | ASTRO", ASTRO Warna-B
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8 
