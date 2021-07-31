@@ -60,13 +60,13 @@ http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MY: NAURA HD" tvg-logo="https://i.postimg.cc/j21r6DXN/NAURA.png" group-title="LIVE | ASTRO", ASTRO Naura HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6724
+http://50.7.161.82:8278/streams/d/naura_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="astroaura.my" tvg-logo="https://i.postimg.cc/mDRFTCLj/Astro-Aura-NEW.png" group-title="LIVE | ASTRO", ASTRO Aura HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6713
 
 #EXTINF:-1 tvg-id="MY: ASTRO RANIA HD" tvg-logo="https://i.postimg.cc/RVFXHPyj/Astro-Rania-NEW.png" group-title="LIVE | ASTRO", ASTRO Rania HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6729
+http://livegopanel.club:8080/Patrick/Patrick/50891
 
 #EXTINF:-1 tvg-id="MY: ASTRO AEC HD" tvg-logo="https://i.postimg.cc/SQ98p1Nq/download-11.png" group-title="LIVE | ASTRO", ASTRO AEC HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6701
@@ -95,23 +95,29 @@ http://iptv.tvmalaysia.cc:80/932633/932633/6723
 #EXTINF:-1 tvg-id="MY: ASTRO HUA HEE DAI HD" tvg-logo="https://i.postimg.cc/nhMDcByY/IMG-20201125-230458.jpg" group-title="LIVE | ASTRO", ASTRO Hua Hee Dai HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6722
 
-#EXTINF:-1 tvg-id="MY: HELLO HD" tvg-logo="https://i.postimg.cc/4xGCbQ5s/Astro-HEllo.jpg" group-title="LIVE | ASTRO", ASTRO Hello
-http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8 
+#EXTINF:-1 tvg-id="MY: HELLO HD" tvg-logo="https://i.postimg.cc/4xGCbQ5s/Astro-HEllo.jpg" group-title="LIVE | ASTRO", ASTRO Hello-A
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MY: HELLO HD" tvg-logo="https://i.postimg.cc/4xGCbQ5s/Astro-HEllo.jpg" group-title="LIVE | ASTRO", ASTRO Hello-B
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8 
 
 #EXTINF:-1 tvg-id="ohk.my" tvg-logo="https://i.postimg.cc/Gpv7q4cY/logo.png" group-title="LIVE | ASTRO", ASTRO Oh!K HD
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="MY: ASTRO QUAN JIA HD" tvg-logo="https://i.postimg.cc/KYLTTLZX/QJHD-E.jpg" group-title="LIVE | ASTRO", ASTRO Quan Jia HD
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8 
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MY: ASTRO WAH LAI TOI HD" tvg-logo="https://i.postimg.cc/43rDPtM2/Astro-wah-lai-toi.png" group-title="LIVE | ASTRO", ASTRO WAH LAI TOI HD
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="MY: ASTRO SHUANG XING HD" tvg-logo="https://i.postimg.cc/d1T3TKv5/Astro-Shuang-Xing-2015.png" group-title="LIVE | ASTRO", ASTRO Shuang Xing HD
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV PT3" tvg-logo="https://i.postimg.cc/TPTncYQN/TTV-PT3.png" group-title="LIVE | ASTRO", ASTRO Tutor TV PT3
-http://iptv.tvmalaysia.cc:80/932633/932633/6734
+http://livegopanel.club:8080/Patrick/Patrick/28698
 
 #EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV SPM" tvg-logo="https://i.postimg.cc/tgSQqJML/TTV-SPM.png" group-title="LIVE | ASTRO", ASTRO Tutor TV SPM
-http://iptv.tvmalaysia.cc:80/932633/932633/6735
+http://livegopanel.club:8080/Patrick/Patrick/33243
 
 #EXTINF:-1 tvg-id="MY: ASTRO TVIQ" tvg-logo="https://i.postimg.cc/tC5rQffc/TTV-UPSR.png" group-title="LIVE | ASTRO", ASTRO Tutor TV UPSR
 http://iptv.tvmalaysia.cc:80/932633/932633/6736
