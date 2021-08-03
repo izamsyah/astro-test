@@ -180,7 +180,7 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png" group-title="LIVE | KIDS CHANNEL", Nickelodeon
-http://siloh-ns1.plutotv.net/lilo/production/Nick/01/master_220210803T180311_1786592.ts
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3livestitch/2019972/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=977&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png" group-title="LIVE | KIDS CHANNEL", Nickelodeon Junior
 http://bit.ly/NickJr360p
