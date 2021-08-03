@@ -158,6 +158,9 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-id="tv9.my" tvg-logo="http://tvmalaysia.cc:80/images/4cc2f264fadb0fe24376bd9dc1cae3f7.png" group-title="LIVE | MALAYSIA", TV 9
 http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVokey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="LIVE | MALAYSIA", OKEY
+http://live2.lsj1proxy.iptv9k.com/live/mys845/s.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png" group-title="LIVE | MALAYSIA", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
