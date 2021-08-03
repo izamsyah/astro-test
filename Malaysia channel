@@ -36,8 +36,8 @@ http://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="astroria.my" tvg-logo="https://i.postimg.cc/L8kDdr1g/images-9.png" group-title="LIVE | ASTRO", ASTRO Ria HD
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8 
-
+http://iptv.tvmalaysia.cc:80/live/932633/932633/6730.ts
+ 
 #EXTINF:-1 tvg-id="astrocitra.my" tvg-logo="https://i.postimg.cc/3Jt3M73Y/Astro-Citra.png" group-title="LIVE | ASTRO", Astro Citra HD (subtitle)
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8 
 
