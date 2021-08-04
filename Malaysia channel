@@ -150,7 +150,7 @@ http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-id="ntv7.my" tvg-logo="https://telegra.ph/file/e329e809e30ac4c5c8414.png" group-title="LIVE | MALAYSIA", Didik TV (NTV 7)
-http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/f2c2cb5788798387b952f.png" group-title="LIVE | MALAYSIA", TV8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
