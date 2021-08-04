@@ -432,10 +432,10 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="foxmoviespremiumhd.id" tvg-logo="http://tvmalaysia.cc:80/images/063a1e48ae1996a258b35db937d48c9b.jpg" group-title="LIVE | MOVIE", Fox Movies Premium
-http://iptv.tvmalaysia.cc:80/932633/932633/8838
+http://62.210.127.9:25461/G1M4D1EXj2/fA67CyVpjM/28774?token=TURYAhZYEAwSBgVQWgAABgxWAFMACAYOAlcCVFJbXlIBAgkABARQUlJGTxBLF0AGVA9uD1IbCQQJBVwAShsTFlMUbwoBEggUCVJQAgtXEE8XFlgLUxsJBwcBUwZUCVJRAUoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN+PRdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
 
 #EXTINF:-1 tvg-id="foxactionmovieshd.id" tvg-logo="http://tvmalaysia.cc:80/images/5501142a5bf997c0fa17c6b39d848e1b.png" group-title="LIVE | MOVIE", Fox Action Movies
-http://iptv.tvmalaysia.cc:80/932633/932633/8839
+http://62.210.127.9:25461/G1M4D1EXj2/fA67CyVpjM/28775?token=TURYAhZYEAwSBgVQWgAABgxWAFMACAYOAlcCVFJbXlIBAgkABARQUlJGTxBLF0AGVA9uD1IbCQQJBVw
 
 #EXTINF:-1 tvg-id="cinemax.id" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="LIVE | MOVIE", Cinemax FHD
 http://iptv.tvmalaysia.cc:80/932633/932633/7062
