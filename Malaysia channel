@@ -228,10 +228,10 @@ http://iptv.tvmalaysia.cc:80/932633/932633/6708
 http://iptv.tvmalaysia.cc:80/932633/932633/6710
 
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="http://tvmalaysia.cc:80/images/a4088df4e560d3b64125b924fd46236c.png" group-title="LIVE | SPORTS", ASTRO SUPERSPORT 3 HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6711
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="astrosupersport4.my" tvg-logo="http://tvmalaysia.cc:80/images/883b8a176132d660fdce1d14f2bfaf7e.png" group-title="LIVE | SPORTS", ASTRO SUPERSPORT 4 HD
-http://iptv.tvmalaysia.cc:80/932633/932633/6712
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="astrocricket.my" tvg-logo="http://tvmalaysia.cc:80/images/ff177c5033f26448c4af4c910a14984c.png" group-title="LIVE | SPORTS", ASTRO Cricket
 http://iptv.tvmalaysia.cc:80/932633/932633/6717
