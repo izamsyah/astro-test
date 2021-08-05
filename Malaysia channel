@@ -198,7 +198,7 @@ http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/376b7cc3c698f1432e499.png" group-title="LIVE | KIDS CHANNEL", Aniplus
-http://210.210.129.106/session/0bd7a972-f5cd-11eb-802a-9347b070cf7a/dr9445/h/h02/20210626T175320-01-46282881.ts
+http://210.210.129.106/session/35aae614-f5ce-11eb-a4f0-8dc6b19e2330/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/8630ed8bde0bdfd0c3dbf.png" group-title="LIVE | KIDS CHANNEL", Boomerang
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8 
