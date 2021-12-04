@@ -1,367 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="•●★---MALAYSIA---★●•" tvg-logo="http://flags.fmcdn.net/data/flags/w580/us.png" group-title="MALAYSIA opplex", •●★---MALAYSIA---★●•
-http://opplex.tv:8080/1102/1102/204655
-
-#EXTINF:-1 tvg-id="My: Astro SuperSport 1 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/811_300.png" group-title="MALAYSIA opplex", My: Astro SuperSport 1 HD
-http://opplex.tv:8080/1102/1102/204656
-
-#EXTINF:-1 tvg-id="My: Astro SuperSport 2 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="MALAYSIA opplex", My: Astro SuperSport 2 HD
-http://opplex.tv:8080/1102/1102/204657
-
-#EXTINF:-1 tvg-id="My: Astro SuperSport 3 HD" tvg-logo="https://www.openbinacle.com/openbinacle/tv/astro-supersport-3/image/astrosupersport3.jpg" group-title="MALAYSIA opplex", My: Astro SuperSport 3 HD
-http://opplex.tv:8080/1102/1102/204658
-
-#EXTINF:-1 tvg-id="My: Astro SuperSport 4 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="MALAYSIA opplex", My: Astro SuperSport 4 HD
-http://opplex.tv:8080/1102/1102/204659
-
-#EXTINF:-1 tvg-id="My: Astro SuperSport plus" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_supersport_my.png" group-title="MALAYSIA opplex", My: Astro SuperSport plus
-http://opplex.tv:8080/1102/1102/204660
-
-#EXTINF:-1 tvg-id="My: Astro Cricket HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7a/824.png" group-title="MALAYSIA opplex", My: Astro Cricket HD
-http://opplex.tv:8080/1102/1102/204661
-
-#EXTINF:-1 tvg-id="My: Fox Sports HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxsportshd.png" group-title="MALAYSIA opplex", My: Fox Sports HD
-http://opplex.tv:8080/1102/1102/204662
-
-#EXTINF:-1 tvg-id="My: Fox Sports 2 HD" tvg-logo="https://p.kindpng.com/picc/s/23-236576_fox-sports-2-hd-png-download.png" group-title="MALAYSIA opplex", My: Fox Sports 2 HD
-http://opplex.tv:8080/1102/1102/204663
-
-#EXTINF:-1 tvg-id="My: Fox Sports 3 HD" tvg-logo="https://www.cns.net.tw/web/upload/20141017170752LahemD8.png" group-title="MALAYSIA opplex", My: Fox Sports 3 HD
-http://opplex.tv:8080/1102/1102/204664
-
-#EXTINF:-1 tvg-id="My: beIN Sports HD" tvg-logo="https://www.millereponses.com/wp-content/uploads/2018/08/Frequence-Bein-Sport-News-HD.png" group-title="MALAYSIA opplex", My: beIN Sports HD
-http://opplex.tv:8080/1102/1102/204665
-
-#EXTINF:-1 tvg-id="My: BeIN MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="MALAYSIA opplex", My: BeIN MAX
-http://opplex.tv:8080/1102/1102/204666
-
-#EXTINF:-1 tvg-id="My: Eurosport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Eurosport_hd.png" group-title="MALAYSIA opplex", My: Eurosport HD
-http://opplex.tv:8080/1102/1102/204667
-
-#EXTINF:-1 tvg-id="My: Golf Channel HD" tvg-logo="http://163.172.38.193:25461/logo/tv/gg/golf_channel_us.png" group-title="MALAYSIA opplex", My: Golf Channel HD
-http://opplex.tv:8080/1102/1102/204668
-
-#EXTINF:-1 tvg-id="My: WWE Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/150px-WWE_Network_logo.svg.png" group-title="MALAYSIA opplex", My: WWE Network HD
-http://opplex.tv:8080/1102/1102/204669
-
-#EXTINF:-1 tvg-id="My: Astro Oh!K HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="MALAYSIA opplex", My: Astro Oh!K HD
-http://opplex.tv:8080/1102/1102/204670
-
-#EXTINF:-1 tvg-id="My: Astro Ria HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/astro-ria-logo-png.png" group-title="MALAYSIA opplex", My: Astro Ria HD
-http://opplex.tv:8080/1102/1102/204671
-
-#EXTINF:-1 tvg-id="My: Astro iQIYI HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ABWNB-YML.png" group-title="MALAYSIA opplex", My: Astro iQIYI HD
-http://opplex.tv:8080/1102/1102/204672
-
-#EXTINF:-1 tvg-id="My: Astro Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="MALAYSIA opplex", My: Astro Animax
-http://opplex.tv:8080/1102/1102/204673
-
-#EXTINF:-1 tvg-id="My: Astro Vinmeen HD" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_vinmeen_hd_my.png" group-title="MALAYSIA opplex", My: Astro Vinmeen HD
-http://opplex.tv:8080/1102/1102/204674
-
-#EXTINF:-1 tvg-id="My: Astro Vaanavil HD" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_vaanavil.png" group-title="MALAYSIA opplex", My: Astro Vaanavil HD
-http://opplex.tv:8080/1102/1102/204675
-
-#EXTINF:-1 tvg-id="My: Astro AEC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/06/Astro_AEC_HD.png/400px-Astro_AEC_HD.png" group-title="MALAYSIA opplex", My: Astro AEC HD
-http://opplex.tv:8080/1102/1102/204676
-
-#EXTINF:-1 tvg-id="My: Astro OASIS HD" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_oasis.png" group-title="MALAYSIA opplex", My: Astro OASIS HD
-http://opplex.tv:8080/1102/1102/204677
-
-#EXTINF:-1 tvg-id="My: Astro Quan Jia HD" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_quan_jia_hd_my.png" group-title="MALAYSIA opplex", My: Astro Quan Jia HD
-http://opplex.tv:8080/1102/1102/204678
-
-#EXTINF:-1 tvg-id="My: Astro Ceria HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/LogoAstroCeriaHD.png/220px-LogoAstroCeriaHD.png" group-title="MALAYSIA opplex", My: Astro Ceria HD
-http://opplex.tv:8080/1102/1102/204679
-
-#EXTINF:-1 tvg-id="My: Astro Hello" tvg-logo="https://liveatpc.com/wp-content/uploads/2018/08/Astro-HEllo.jpg" group-title="MALAYSIA opplex", My: Astro Hello
-http://opplex.tv:8080/1102/1102/204680
-
-#EXTINF:-1 tvg-id="My: Astro One HD" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="MALAYSIA opplex", My: Astro One HD
-http://opplex.tv:8080/1102/1102/204681
-
-#EXTINF:-1 tvg-id="My: Astro Xiao Tai Yang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png" group-title="MALAYSIA opplex", My: Astro Xiao Tai Yang HD
-http://opplex.tv:8080/1102/1102/204682
-
-#EXTINF:-1 tvg-id="My: Astro Hua Li Tai HD" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="MALAYSIA opplex", My: Astro Hua Li Tai HD
-http://opplex.tv:8080/1102/1102/204683
-
-#EXTINF:-1 tvg-id="My: Astro Huan Xi Tai HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="MALAYSIA opplex", My: Astro Huan Xi Tai HD
-http://opplex.tv:8080/1102/1102/204684
-
-#EXTINF:-1 tvg-id="My: Astro Tutor TV SPM" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_tutor_tv_spm.png" group-title="MALAYSIA opplex", My: Astro Tutor TV SPM
-http://opplex.tv:8080/1102/1102/204685
-
-#EXTINF:-1 tvg-id="My: Nat Geo People" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="MALAYSIA opplex", My: Nat Geo People
-http://opplex.tv:8080/1102/1102/204686
-
-#EXTINF:-1 tvg-id="My: Astro Awani" tvg-logo="noimage.png" group-title="MALAYSIA opplex", My: Astro Awani
-http://opplex.tv:8080/1102/1102/204687
-
-#EXTINF:-1 tvg-id="My: Astro TVIQ" tvg-logo="https://alchetron.com/cdn/astro-tviq-05d34bce-4d2c-4d36-b590-1e4fdd648ac-resize-750.png" group-title="MALAYSIA opplex", My: Astro TVIQ
-http://opplex.tv:8080/1102/1102/204688
-
-#EXTINF:-1 tvg-id="My: Astro AniPlus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/440px-Aniplus_Asia_Logo.png" group-title="MALAYSIA opplex", My: Astro AniPlus HD
-http://opplex.tv:8080/1102/1102/204689
-
-#EXTINF:-1 tvg-id="My: Astro KPLUS HD" tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png" group-title="MALAYSIA opplex", My: Astro KPLUS HD
-http://opplex.tv:8080/1102/1102/204690
-
-#EXTINF:-1 tvg-id="My: Astro CTI ASIA" tvg-logo="https://tvkuindodotnet.files.wordpress.com/2018/11/channel-cti-asia-hd-3.png" group-title="MALAYSIA opplex", My: Astro CTI ASIA
-http://opplex.tv:8080/1102/1102/204691
-
-#EXTINF:-1 tvg-id="My: Astro HUA HEE DAI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Astro_HHD_HD.png" group-title="MALAYSIA opplex", My: Astro HUA HEE DAI HD
-http://opplex.tv:8080/1102/1102/204692
-
-#EXTINF:-1 tvg-id="My: Astro Aura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="MALAYSIA opplex", My: Astro Aura HD
-http://opplex.tv:8080/1102/1102/204693
-
-#EXTINF:-1 tvg-id="My: Astro Bollyone HD" tvg-logo="https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png" group-title="MALAYSIA opplex", My: Astro Bollyone HD
-http://opplex.tv:8080/1102/1102/204694
-
-#EXTINF:-1 tvg-id="My: Astro Rania HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="MALAYSIA opplex", My: Astro Rania HD
-http://opplex.tv:8080/1102/1102/204695
-
-#EXTINF:-1 tvg-id="My: Astro Celestial HD" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/astro-celestialmovies-hd-ch309_orig.png" group-title="MALAYSIA opplex", My: Astro Celestial HD
-http://opplex.tv:8080/1102/1102/204696
-
-#EXTINF:-1 tvg-id="My: Astro Go Shop HD" tvg-logo="https://images.unicartapp.com/image/alfioraldo/image/data/FKITjgc71570100559.png" group-title="MALAYSIA opplex", My: Astro Go Shop HD
-http://opplex.tv:8080/1102/1102/204697
-
-#EXTINF:-1 tvg-id="My: Astro Go Shop 2" tvg-logo="https://cdn.imgbin.com/10/16/13/imgbin-astro-go-shop-bukit-jalil-television-show-astro-malaysia-holdings-others-x9XXcn8mPgT8uw6rE65beTUUb.jpg" group-title="MALAYSIA opplex", My: Astro Go Shop 2
-http://opplex.tv:8080/1102/1102/204698
-
-#EXTINF:-1 tvg-id="My: Astro Go Shop Ruuma" tvg-logo="https://www.pngitem.com/pimgs/m/75-759605_go-shop-hd-png-download.png" group-title="MALAYSIA opplex", My: Astro Go Shop Ruuma
-http://opplex.tv:8080/1102/1102/204699
-
-#EXTINF:-1 tvg-id="My: Astro Go Shop Gaaya" tvg-logo="https://www.collectco.my/images/merchants/astrogoshop.png" group-title="MALAYSIA opplex", My: Astro Go Shop Gaaya
-http://opplex.tv:8080/1102/1102/204700
-
-#EXTINF:-1 tvg-id="My: Astro AOD 311 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="MALAYSIA opplex", My: Astro AOD 311 HD
-http://opplex.tv:8080/1102/1102/204701
-
-#EXTINF:-1 tvg-id="My: Astro AOD 352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="MALAYSIA opplex", My: Astro AOD 352
-http://opplex.tv:8080/1102/1102/204702
-
-#EXTINF:-1 tvg-id="My: Astro AOD 353" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="MALAYSIA opplex", My: Astro AOD 353
-http://opplex.tv:8080/1102/1102/204703
-
-#EXTINF:-1 tvg-id="My: Astro AOD 354" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="MALAYSIA opplex", My: Astro AOD 354
-http://opplex.tv:8080/1102/1102/204704
-
-#EXTINF:-1 tvg-id="My: Astro AOD 355" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="MALAYSIA opplex", My: Astro AOD 355
-http://opplex.tv:8080/1102/1102/204705
-
-#EXTINF:-1 tvg-id="My: AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="MALAYSIA opplex", My: AXN HD
-http://opplex.tv:8080/1102/1102/204706
-
-#EXTINF:-1 tvg-id="My: HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="MALAYSIA opplex", My: HBO HD
-http://opplex.tv:8080/1102/1102/204707
-
-#EXTINF:-1 tvg-id="My: Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MALAYSIA opplex", My: Cinemax HD
-http://opplex.tv:8080/1102/1102/204708
-
-#EXTINF:-1 tvg-id="My: Hits Movies HD" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="MALAYSIA opplex", My: Hits Movies HD
-http://opplex.tv:8080/1102/1102/204709
-
-#EXTINF:-1 tvg-id="My: tvN Movies HD" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg" group-title="MALAYSIA opplex", My: tvN Movies HD
-http://opplex.tv:8080/1102/1102/204710
-
-#EXTINF:-1 tvg-id="My: Comedy Central HD" tvg-logo="http://163.172.38.193:25461/logo/tv/cc/comedy_central_us.png" group-title="MALAYSIA opplex", My: Comedy Central HD
-http://opplex.tv:8080/1102/1102/204711
-
-#EXTINF:-1 tvg-id="My: HGTV HD" tvg-logo="https://www.pngkey.com/png/detail/364-3646903_hgtv-hd-hgtv-png.png" group-title="MALAYSIA opplex", My: HGTV HD
-http://opplex.tv:8080/1102/1102/204712
-
-#EXTINF:-1 tvg-id="My: Warner TV HD" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/WB-Channel.png" group-title="MALAYSIA opplex", My: Warner TV HD
-http://opplex.tv:8080/1102/1102/204713
-
-#EXTINF:-1 tvg-id="My: Dmax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DMAX_HD.svg/1280px-DMAX_HD.svg.png" group-title="MALAYSIA opplex", My: Dmax HD
-http://opplex.tv:8080/1102/1102/204714
-
-#EXTINF:-1 tvg-id="My: TLC HD" tvg-logo="http://163.172.38.193:25461/logo/tv/tt/tlc_br.png" group-title="MALAYSIA opplex", My: TLC HD
-http://opplex.tv:8080/1102/1102/204715
-
-#EXTINF:-1 tvg-id="My: Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Food_Network_Canada_HD.PNG" group-title="MALAYSIA opplex", My: Food Network HD
-http://opplex.tv:8080/1102/1102/204716
-
-#EXTINF:-1 tvg-id="My: Hits HD" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="MALAYSIA opplex", My: Hits HD
-http://opplex.tv:8080/1102/1102/204717
-
-#EXTINF:-1 tvg-id="My: Nat Geo Wild HD" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/Nat-Geo-Wild-HD.png" group-title="MALAYSIA opplex", My: Nat Geo Wild HD
-http://opplex.tv:8080/1102/1102/204718
-
-#EXTINF:-1 tvg-id="My: Crime + Investigation HD" tvg-logo="http://163.172.38.193:25461/logo/tv/cc/crime_investigation_network_uk.png" group-title="MALAYSIA opplex", My: Crime + Investigation HD
-http://opplex.tv:8080/1102/1102/204719
-
-#EXTINF:-1 tvg-id="My: Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="MALAYSIA opplex", My: Discovery HD
-http://opplex.tv:8080/1102/1102/204720
-
-#EXTINF:-1 tvg-id="My: Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/1280px-Animal_Planet_HD.svg.png" group-title="MALAYSIA opplex", My: Animal Planet HD
-http://opplex.tv:8080/1102/1102/204721
-
-#EXTINF:-1 tvg-id="My: Discovery Sci HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="MALAYSIA opplex", My: Discovery Sci HD
-http://opplex.tv:8080/1102/1102/204722
-
-#EXTINF:-1 tvg-id="My: National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nat_Geo_HD_Logo.svg/640px-Nat_Geo_HD_Logo.svg.png" group-title="MALAYSIA opplex", My: National Geographic HD
-http://opplex.tv:8080/1102/1102/204723
-
-#EXTINF:-1 tvg-id="My: Discovery Asia" tvg-logo="https://3.bp.blogspot.com/-rW6aC-akTMQ/W36n6fnPN-I/AAAAAAAAEW8/H_FCrllEgwoeGAQ9_-eeizZQlxwIxAKtACLcBGAs/s1600/Discovery%2BAsia%2Blogo.png" group-title="MALAYSIA opplex", My: Discovery Asia
-http://opplex.tv:8080/1102/1102/204724
-
-#EXTINF:-1 tvg-id="My: TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="MALAYSIA opplex", My: TV Alhijrah
-http://opplex.tv:8080/1102/1102/204725
-
-#EXTINF:-1 tvg-id="My: CCM" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="MALAYSIA opplex", My: CCM
-http://opplex.tv:8080/1102/1102/204726
-
-#EXTINF:-1 tvg-id="My: CGTN" tvg-logo="https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png" group-title="MALAYSIA opplex", My: CGTN
-http://opplex.tv:8080/1102/1102/204727
-
-#EXTINF:-1 tvg-id="My: CNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="MALAYSIA opplex", My: CNA HD
-http://opplex.tv:8080/1102/1102/204728
-
-#EXTINF:-1 tvg-id="My: ABC Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" group-title="MALAYSIA opplex", My: ABC Australia
-http://opplex.tv:8080/1102/1102/204729
-
-#EXTINF:-1 tvg-id="My: Tutor TV UPSR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Astro_Tutor_TV_UPSR.png" group-title="MALAYSIA opplex", My: Tutor TV UPSR
-http://opplex.tv:8080/1102/1102/204730
-
-#EXTINF:-1 tvg-id="My: Chutti TV" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_968/chutti-Small-card-864X640.jpg" group-title="MALAYSIA opplex", My: Chutti TV
-http://opplex.tv:8080/1102/1102/204731
-
-#EXTINF:-1 tvg-id="My: Prima HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="MALAYSIA opplex", My: Prima HD
-http://opplex.tv:8080/1102/1102/204732
-
-#EXTINF:-1 tvg-id="My: tvN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVN_HD_Logo_2012.PNG/250px-TVN_HD_Logo_2012.PNG" group-title="MALAYSIA opplex", My: tvN HD
-http://opplex.tv:8080/1102/1102/204733
-
-#EXTINF:-1 tvg-id="My: MTV" tvg-logo="http://163.172.38.193:25461/logo/tv/mm/mtv_us.png" group-title="MALAYSIA opplex", My: MTV
-http://opplex.tv:8080/1102/1102/204734
-
-#EXTINF:-1 tvg-id="My: KBSW HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/392_300.png" group-title="MALAYSIA opplex", My: KBSW HD
-http://opplex.tv:8080/1102/1102/204735
-
-#EXTINF:-1 tvg-id="My: eGG Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="MALAYSIA opplex", My: eGG Network HD
-http://opplex.tv:8080/1102/1102/204736
-
-#EXTINF:-1 tvg-id="My: Colors HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="MALAYSIA opplex", My: Colors HD
-http://opplex.tv:8080/1102/1102/204737
-
-#EXTINF:-1 tvg-id="My: Tutor TV PT3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/602_300.png" group-title="MALAYSIA opplex", My: Tutor TV PT3
-http://opplex.tv:8080/1102/1102/204738
-
-#EXTINF:-1 tvg-id="My: AFN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="MALAYSIA opplex", My: AFN HD
-http://opplex.tv:8080/1102/1102/204739
-
-#EXTINF:-1 tvg-id="My: kix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="MALAYSIA opplex", My: kix HD
-http://opplex.tv:8080/1102/1102/204740
-
-#EXTINF:-1 tvg-id="My: Makkal TV" tvg-logo="https://cdn6.aptoide.com/imgs/7/7/2/772208946452c9f6f70c36e571c3e408_screen.png" group-title="MALAYSIA opplex", My: Makkal TV
-http://opplex.tv:8080/1102/1102/204741
-
-#EXTINF:-1 tvg-id="My: TVB Classic" tvg-logo="https://vignette.wikia.nocookie.net/scratchpad/images/e/e2/TVB_Logo_%28Hong_Kong%29.png" group-title="MALAYSIA opplex", My: TVB Classic
-http://opplex.tv:8080/1102/1102/204742
-
-#EXTINF:-1 tvg-id="My: DW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="MALAYSIA opplex", My: DW HD
-http://opplex.tv:8080/1102/1102/204743
-
-#EXTINF:-1 tvg-id="My: Phoenix HD" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="MALAYSIA opplex", My: Phoenix HD
-http://opplex.tv:8080/1102/1102/204744
-
-#EXTINF:-1 tvg-id="My: Shuang Xing HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Astro_SHX_HD.jpeg" group-title="MALAYSIA opplex", My: Shuang Xing HD
-http://opplex.tv:8080/1102/1102/204745
-
-#EXTINF:-1 tvg-id="My: TVB Xing HE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" group-title="MALAYSIA opplex", My: TVB Xing HE HD
-http://opplex.tv:8080/1102/1102/204746
-
-#EXTINF:-1 tvg-id="My: WLT JADE" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/da/TVBJ_Sat.png/220px-TVBJ_Sat.png" group-title="MALAYSIA opplex", My: WLT JADE
-http://opplex.tv:8080/1102/1102/204747
-
-#EXTINF:-1 tvg-id="My: TVBS Asia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/TVBS_Asia_logo_2017.png/220px-TVBS_Asia_logo_2017.png" group-title="MALAYSIA opplex", My: TVBS Asia HD
-http://opplex.tv:8080/1102/1102/204748
-
-#EXTINF:-1 tvg-id="My: Bernama" tvg-logo="https://www.bernama.com/bm/img/bernama.png" group-title="MALAYSIA opplex", My: Bernama
-http://opplex.tv:8080/1102/1102/204749
-
-#EXTINF:-1 tvg-id="My: Naura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png" group-title="MALAYSIA opplex", My: Naura
-http://opplex.tv:8080/1102/1102/204750
-
-#EXTINF:-1 tvg-id="My: Disney Junior" tvg-logo="http://163.172.38.193:25461/logo/tv/dd/disney_junior_us.png" group-title="MALAYSIA opplex", My: Disney Junior
-http://opplex.tv:8080/1102/1102/204751
-
-#EXTINF:-1 tvg-id="My: Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="MALAYSIA opplex", My: Disney Channel HD
-http://opplex.tv:8080/1102/1102/204752
-
-#EXTINF:-1 tvg-id="My: Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="MALAYSIA opplex", My: Nickelodeon HD
-http://opplex.tv:8080/1102/1102/204753
-
-#EXTINF:-1 tvg-id="My: Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Disney_XD_HD.svg/2644px-Disney_XD_HD.svg.png" group-title="MALAYSIA opplex", My: Disney XD HD
-http://opplex.tv:8080/1102/1102/204754
-
-#EXTINF:-1 tvg-id="My: Nick JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png" group-title="MALAYSIA opplex", My: Nick JR
-http://opplex.tv:8080/1102/1102/204755
-
-#EXTINF:-1 tvg-id="My: Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1811px-Cartoon_Network_HD_logo.svg.png" group-title="MALAYSIA opplex", My: Cartoon Network HD
-http://opplex.tv:8080/1102/1102/204756
-
-#EXTINF:-1 tvg-id="My: BBC News HD" tvg-logo="http://163.172.38.193:25461/logo/tv/bb/bbc_news.png" group-title="MALAYSIA opplex", My: BBC News HD
-http://opplex.tv:8080/1102/1102/204757
-
-#EXTINF:-1 tvg-id="My: Bloomberg TV" tvg-logo="http://163.172.38.193:25461/logo/tv/bb/bloomberg_tv_us.png" group-title="MALAYSIA opplex", My: Bloomberg TV
-http://opplex.tv:8080/1102/1102/204758
-
-#EXTINF:-1 tvg-id="My: CNBC" tvg-logo="http://163.172.38.193:25461/logo/tv/cc/cnbc_aus.png" group-title="MALAYSIA opplex", My: CNBC
-http://opplex.tv:8080/1102/1102/204759
-
-#EXTINF:-1 tvg-id="My: CNN HD" tvg-logo="http://163.172.38.193:25461/logo/tv/cc/cnn_international_global.png" group-title="MALAYSIA opplex", My: CNN HD
-http://opplex.tv:8080/1102/1102/204760
-
-#EXTINF:-1 tvg-id="My: Phoenix News HD" tvg-logo="http://163.172.38.193:25461/logo/tv/pp/phoenix_cne.png" group-title="MALAYSIA opplex", My: Phoenix News HD
-http://opplex.tv:8080/1102/1102/204761
-
-#EXTINF:-1 tvg-id="My: Sky News HD" tvg-logo="http://163.172.38.193:25461/logo/tv/ss/sky_uk_news.png" group-title="MALAYSIA opplex", My: Sky News HD
-http://opplex.tv:8080/1102/1102/204762
-
-#EXTINF:-1 tvg-id="My: TVB News" tvg-logo="https://digitpepper.com/blog/wp-content/uploads/2012/08/tvb-news-app-icon.png" group-title="MALAYSIA opplex", My: TVB News
-http://opplex.tv:8080/1102/1102/204763
-
-#EXTINF:-1 tvg-id="My: TVB E-News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" group-title="MALAYSIA opplex", My: TVB E-News
-http://opplex.tv:8080/1102/1102/204764
-
-#EXTINF:-1 tvg-id="My: TVBS News" tvg-logo="http://163.172.38.193:25461/logo/tv/tt/tvbs_news.png" group-title="MALAYSIA opplex", My: TVBS News
-http://opplex.tv:8080/1102/1102/204765
-
-#EXTINF:-1 tvg-id="My: Colors Tamil" tvg-logo="http://163.172.38.193:25461/logo/tv/cc/colors_in.png" group-title="MALAYSIA opplex", My: Colors Tamil
-http://opplex.tv:8080/1102/1102/204766
-
-#EXTINF:-1 tvg-id="My: Star Vijay HD" tvg-logo="http://163.172.38.193:25461/logo/tv/ss/star_vijay_in.png" group-title="MALAYSIA opplex", My: Star Vijay HD
-http://opplex.tv:8080/1102/1102/204767
-
-#EXTINF:-1 tvg-id="My: Sun Music HD" tvg-logo="https://kccl.tv/sites/default/files/sun%20music.jpg" group-title="MALAYSIA opplex", My: Sun Music HD
-http://opplex.tv:8080/1102/1102/204768
-
-#EXTINF:-1 tvg-id="My: Sun TV HD" tvg-logo="http://163.172.38.193:25461/logo/tv/ss/sun_tv_in.png" group-title="MALAYSIA opplex", My: Sun TV HD
-http://opplex.tv:8080/1102/1102/204769
-
-#EXTINF:-1 tvg-id="My: TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="MALAYSIA opplex", My: TV1
-http://opplex.tv:8080/1102/1102/204770
-
-#EXTINF:-1 tvg-id="My: TV2" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotv2.jpg" group-title="MALAYSIA opplex", My: TV2
-http://opplex.tv:8080/1102/1102/204771
-
-#EXTINF:-1 tvg-id="MY: TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MALAYSIA opplex", MY: TV3
-http://opplex.tv:8080/1102/1102/204772
-
-#EXTINF:-1 tvg-id="MY: TV9" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MALAYSIA opplex", MY: TV9
-http://opplex.tv:8080/1102/1102/204773
-
-#EXTINF:-1 tvg-id="My: Zee Tamil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" group-title="MALAYSIA opplex", My: Zee Tamil HD
-http://opplex.tv:8080/1102/1102/204774
-
-#EXTINF:-1 tvg-id="My: ADITHYA" tvg-logo="https://sc.dish.com/shared/images/station-logos/ADTYA.png" group-title="MALAYSIA opplex", My: ADITHYA
-http://opplex.tv:8080/1102/1102/204775
-
 #EXTINF:-1 tvg-id="------|Malaysia|------" tvg-logo="noimage.png" group-title="Malaysia wanicelife", ------|Malaysia|------
 http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/1735
 
@@ -781,6 +418,369 @@ http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/71148
 
 #EXTINF:-1 tvg-id="MY180:ASTRO ASSP Plus HD" tvg-logo="noimage.png" group-title="Malaysia wanicelife", MY180:ASTRO ASSP Plus HD
 http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/71149
+
+#EXTINF:-1 tvg-id="•●★---MALAYSIA---★●•" tvg-logo="http://flags.fmcdn.net/data/flags/w580/us.png" group-title="MALAYSIA opplex", •●★---MALAYSIA---★●•
+http://opplex.tv:8080/588/588/204655
+
+#EXTINF:-1 tvg-id="My: Astro SuperSport 1 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/811_300.png" group-title="MALAYSIA opplex", My: Astro SuperSport 1 HD
+http://opplex.tv:8080/588/588/204656
+
+#EXTINF:-1 tvg-id="My: Astro SuperSport 2 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="MALAYSIA opplex", My: Astro SuperSport 2 HD
+http://opplex.tv:8080/588/588/204657
+
+#EXTINF:-1 tvg-id="My: Astro SuperSport 3 HD" tvg-logo="https://www.openbinacle.com/openbinacle/tv/astro-supersport-3/image/astrosupersport3.jpg" group-title="MALAYSIA opplex", My: Astro SuperSport 3 HD
+http://opplex.tv:8080/588/588/204658
+
+#EXTINF:-1 tvg-id="My: Astro SuperSport 4 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="MALAYSIA opplex", My: Astro SuperSport 4 HD
+http://opplex.tv:8080/588/588/204659
+
+#EXTINF:-1 tvg-id="My: Astro SuperSport plus" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_supersport_my.png" group-title="MALAYSIA opplex", My: Astro SuperSport plus
+http://opplex.tv:8080/588/588/204660
+
+#EXTINF:-1 tvg-id="My: Astro Cricket HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7a/824.png" group-title="MALAYSIA opplex", My: Astro Cricket HD
+http://opplex.tv:8080/588/588/204661
+
+#EXTINF:-1 tvg-id="My: Fox Sports HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxsportshd.png" group-title="MALAYSIA opplex", My: Fox Sports HD
+http://opplex.tv:8080/588/588/204662
+
+#EXTINF:-1 tvg-id="My: Fox Sports 2 HD" tvg-logo="https://p.kindpng.com/picc/s/23-236576_fox-sports-2-hd-png-download.png" group-title="MALAYSIA opplex", My: Fox Sports 2 HD
+http://opplex.tv:8080/588/588/204663
+
+#EXTINF:-1 tvg-id="My: Fox Sports 3 HD" tvg-logo="https://www.cns.net.tw/web/upload/20141017170752LahemD8.png" group-title="MALAYSIA opplex", My: Fox Sports 3 HD
+http://opplex.tv:8080/588/588/204664
+
+#EXTINF:-1 tvg-id="My: beIN Sports HD" tvg-logo="https://www.millereponses.com/wp-content/uploads/2018/08/Frequence-Bein-Sport-News-HD.png" group-title="MALAYSIA opplex", My: beIN Sports HD
+http://opplex.tv:8080/588/588/204665
+
+#EXTINF:-1 tvg-id="My: BeIN MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="MALAYSIA opplex", My: BeIN MAX
+http://opplex.tv:8080/588/588/204666
+
+#EXTINF:-1 tvg-id="My: Eurosport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Eurosport_hd.png" group-title="MALAYSIA opplex", My: Eurosport HD
+http://opplex.tv:8080/588/588/204667
+
+#EXTINF:-1 tvg-id="My: Golf Channel HD" tvg-logo="http://163.172.38.193:25461/logo/tv/gg/golf_channel_us.png" group-title="MALAYSIA opplex", My: Golf Channel HD
+http://opplex.tv:8080/588/588/204668
+
+#EXTINF:-1 tvg-id="My: WWE Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/150px-WWE_Network_logo.svg.png" group-title="MALAYSIA opplex", My: WWE Network HD
+http://opplex.tv:8080/588/588/204669
+
+#EXTINF:-1 tvg-id="My: Astro Oh!K HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="MALAYSIA opplex", My: Astro Oh!K HD
+http://opplex.tv:8080/588/588/204670
+
+#EXTINF:-1 tvg-id="My: Astro Ria HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/astro-ria-logo-png.png" group-title="MALAYSIA opplex", My: Astro Ria HD
+http://opplex.tv:8080/588/588/204671
+
+#EXTINF:-1 tvg-id="My: Astro iQIYI HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ABWNB-YML.png" group-title="MALAYSIA opplex", My: Astro iQIYI HD
+http://opplex.tv:8080/588/588/204672
+
+#EXTINF:-1 tvg-id="My: Astro Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="MALAYSIA opplex", My: Astro Animax
+http://opplex.tv:8080/588/588/204673
+
+#EXTINF:-1 tvg-id="My: Astro Vinmeen HD" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_vinmeen_hd_my.png" group-title="MALAYSIA opplex", My: Astro Vinmeen HD
+http://opplex.tv:8080/588/588/204674
+
+#EXTINF:-1 tvg-id="My: Astro Vaanavil HD" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_vaanavil.png" group-title="MALAYSIA opplex", My: Astro Vaanavil HD
+http://opplex.tv:8080/588/588/204675
+
+#EXTINF:-1 tvg-id="My: Astro AEC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/06/Astro_AEC_HD.png/400px-Astro_AEC_HD.png" group-title="MALAYSIA opplex", My: Astro AEC HD
+http://opplex.tv:8080/588/588/204676
+
+#EXTINF:-1 tvg-id="My: Astro OASIS HD" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_oasis.png" group-title="MALAYSIA opplex", My: Astro OASIS HD
+http://opplex.tv:8080/588/588/204677
+
+#EXTINF:-1 tvg-id="My: Astro Quan Jia HD" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_quan_jia_hd_my.png" group-title="MALAYSIA opplex", My: Astro Quan Jia HD
+http://opplex.tv:8080/588/588/204678
+
+#EXTINF:-1 tvg-id="My: Astro Ceria HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/LogoAstroCeriaHD.png/220px-LogoAstroCeriaHD.png" group-title="MALAYSIA opplex", My: Astro Ceria HD
+http://opplex.tv:8080/588/588/204679
+
+#EXTINF:-1 tvg-id="My: Astro Hello" tvg-logo="https://liveatpc.com/wp-content/uploads/2018/08/Astro-HEllo.jpg" group-title="MALAYSIA opplex", My: Astro Hello
+http://opplex.tv:8080/588/588/204680
+
+#EXTINF:-1 tvg-id="My: Astro One HD" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="MALAYSIA opplex", My: Astro One HD
+http://opplex.tv:8080/588/588/204681
+
+#EXTINF:-1 tvg-id="My: Astro Xiao Tai Yang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png" group-title="MALAYSIA opplex", My: Astro Xiao Tai Yang HD
+http://opplex.tv:8080/588/588/204682
+
+#EXTINF:-1 tvg-id="My: Astro Hua Li Tai HD" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="MALAYSIA opplex", My: Astro Hua Li Tai HD
+http://opplex.tv:8080/588/588/204683
+
+#EXTINF:-1 tvg-id="My: Astro Huan Xi Tai HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="MALAYSIA opplex", My: Astro Huan Xi Tai HD
+http://opplex.tv:8080/588/588/204684
+
+#EXTINF:-1 tvg-id="My: Astro Tutor TV SPM" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_tutor_tv_spm.png" group-title="MALAYSIA opplex", My: Astro Tutor TV SPM
+http://opplex.tv:8080/588/588/204685
+
+#EXTINF:-1 tvg-id="My: Nat Geo People" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="MALAYSIA opplex", My: Nat Geo People
+http://opplex.tv:8080/588/588/204686
+
+#EXTINF:-1 tvg-id="My: Astro Awani" tvg-logo="noimage.png" group-title="MALAYSIA opplex", My: Astro Awani
+http://opplex.tv:8080/588/588/204687
+
+#EXTINF:-1 tvg-id="My: Astro TVIQ" tvg-logo="https://alchetron.com/cdn/astro-tviq-05d34bce-4d2c-4d36-b590-1e4fdd648ac-resize-750.png" group-title="MALAYSIA opplex", My: Astro TVIQ
+http://opplex.tv:8080/588/588/204688
+
+#EXTINF:-1 tvg-id="My: Astro AniPlus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/440px-Aniplus_Asia_Logo.png" group-title="MALAYSIA opplex", My: Astro AniPlus HD
+http://opplex.tv:8080/588/588/204689
+
+#EXTINF:-1 tvg-id="My: Astro KPLUS HD" tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png" group-title="MALAYSIA opplex", My: Astro KPLUS HD
+http://opplex.tv:8080/588/588/204690
+
+#EXTINF:-1 tvg-id="My: Astro CTI ASIA" tvg-logo="https://tvkuindodotnet.files.wordpress.com/2018/11/channel-cti-asia-hd-3.png" group-title="MALAYSIA opplex", My: Astro CTI ASIA
+http://opplex.tv:8080/588/588/204691
+
+#EXTINF:-1 tvg-id="My: Astro HUA HEE DAI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Astro_HHD_HD.png" group-title="MALAYSIA opplex", My: Astro HUA HEE DAI HD
+http://opplex.tv:8080/588/588/204692
+
+#EXTINF:-1 tvg-id="My: Astro Aura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="MALAYSIA opplex", My: Astro Aura HD
+http://opplex.tv:8080/588/588/204693
+
+#EXTINF:-1 tvg-id="My: Astro Bollyone HD" tvg-logo="https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png" group-title="MALAYSIA opplex", My: Astro Bollyone HD
+http://opplex.tv:8080/588/588/204694
+
+#EXTINF:-1 tvg-id="My: Astro Rania HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="MALAYSIA opplex", My: Astro Rania HD
+http://opplex.tv:8080/588/588/204695
+
+#EXTINF:-1 tvg-id="My: Astro Celestial HD" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/astro-celestialmovies-hd-ch309_orig.png" group-title="MALAYSIA opplex", My: Astro Celestial HD
+http://opplex.tv:8080/588/588/204696
+
+#EXTINF:-1 tvg-id="My: Astro Go Shop HD" tvg-logo="https://images.unicartapp.com/image/alfioraldo/image/data/FKITjgc71570100559.png" group-title="MALAYSIA opplex", My: Astro Go Shop HD
+http://opplex.tv:8080/588/588/204697
+
+#EXTINF:-1 tvg-id="My: Astro Go Shop 2" tvg-logo="https://cdn.imgbin.com/10/16/13/imgbin-astro-go-shop-bukit-jalil-television-show-astro-malaysia-holdings-others-x9XXcn8mPgT8uw6rE65beTUUb.jpg" group-title="MALAYSIA opplex", My: Astro Go Shop 2
+http://opplex.tv:8080/588/588/204698
+
+#EXTINF:-1 tvg-id="My: Astro Go Shop Ruuma" tvg-logo="https://www.pngitem.com/pimgs/m/75-759605_go-shop-hd-png-download.png" group-title="MALAYSIA opplex", My: Astro Go Shop Ruuma
+http://opplex.tv:8080/588/588/204699
+
+#EXTINF:-1 tvg-id="My: Astro Go Shop Gaaya" tvg-logo="https://www.collectco.my/images/merchants/astrogoshop.png" group-title="MALAYSIA opplex", My: Astro Go Shop Gaaya
+http://opplex.tv:8080/588/588/204700
+
+#EXTINF:-1 tvg-id="My: Astro AOD 311 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="MALAYSIA opplex", My: Astro AOD 311 HD
+http://opplex.tv:8080/588/588/204701
+
+#EXTINF:-1 tvg-id="My: Astro AOD 352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="MALAYSIA opplex", My: Astro AOD 352
+http://opplex.tv:8080/588/588/204702
+
+#EXTINF:-1 tvg-id="My: Astro AOD 353" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="MALAYSIA opplex", My: Astro AOD 353
+http://opplex.tv:8080/588/588/204703
+
+#EXTINF:-1 tvg-id="My: Astro AOD 354" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="MALAYSIA opplex", My: Astro AOD 354
+http://opplex.tv:8080/588/588/204704
+
+#EXTINF:-1 tvg-id="My: Astro AOD 355" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="MALAYSIA opplex", My: Astro AOD 355
+http://opplex.tv:8080/588/588/204705
+
+#EXTINF:-1 tvg-id="My: AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="MALAYSIA opplex", My: AXN HD
+http://opplex.tv:8080/588/588/204706
+
+#EXTINF:-1 tvg-id="My: HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="MALAYSIA opplex", My: HBO HD
+http://opplex.tv:8080/588/588/204707
+
+#EXTINF:-1 tvg-id="My: Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MALAYSIA opplex", My: Cinemax HD
+http://opplex.tv:8080/588/588/204708
+
+#EXTINF:-1 tvg-id="My: Hits Movies HD" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="MALAYSIA opplex", My: Hits Movies HD
+http://opplex.tv:8080/588/588/204709
+
+#EXTINF:-1 tvg-id="My: tvN Movies HD" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg" group-title="MALAYSIA opplex", My: tvN Movies HD
+http://opplex.tv:8080/588/588/204710
+
+#EXTINF:-1 tvg-id="My: Comedy Central HD" tvg-logo="http://163.172.38.193:25461/logo/tv/cc/comedy_central_us.png" group-title="MALAYSIA opplex", My: Comedy Central HD
+http://opplex.tv:8080/588/588/204711
+
+#EXTINF:-1 tvg-id="My: HGTV HD" tvg-logo="https://www.pngkey.com/png/detail/364-3646903_hgtv-hd-hgtv-png.png" group-title="MALAYSIA opplex", My: HGTV HD
+http://opplex.tv:8080/588/588/204712
+
+#EXTINF:-1 tvg-id="My: Warner TV HD" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/WB-Channel.png" group-title="MALAYSIA opplex", My: Warner TV HD
+http://opplex.tv:8080/588/588/204713
+
+#EXTINF:-1 tvg-id="My: Dmax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DMAX_HD.svg/1280px-DMAX_HD.svg.png" group-title="MALAYSIA opplex", My: Dmax HD
+http://opplex.tv:8080/588/588/204714
+
+#EXTINF:-1 tvg-id="My: TLC HD" tvg-logo="http://163.172.38.193:25461/logo/tv/tt/tlc_br.png" group-title="MALAYSIA opplex", My: TLC HD
+http://opplex.tv:8080/588/588/204715
+
+#EXTINF:-1 tvg-id="My: Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Food_Network_Canada_HD.PNG" group-title="MALAYSIA opplex", My: Food Network HD
+http://opplex.tv:8080/588/588/204716
+
+#EXTINF:-1 tvg-id="My: Hits HD" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="MALAYSIA opplex", My: Hits HD
+http://opplex.tv:8080/588/588/204717
+
+#EXTINF:-1 tvg-id="My: Nat Geo Wild HD" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/Nat-Geo-Wild-HD.png" group-title="MALAYSIA opplex", My: Nat Geo Wild HD
+http://opplex.tv:8080/588/588/204718
+
+#EXTINF:-1 tvg-id="My: Crime + Investigation HD" tvg-logo="http://163.172.38.193:25461/logo/tv/cc/crime_investigation_network_uk.png" group-title="MALAYSIA opplex", My: Crime + Investigation HD
+http://opplex.tv:8080/588/588/204719
+
+#EXTINF:-1 tvg-id="My: Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="MALAYSIA opplex", My: Discovery HD
+http://opplex.tv:8080/588/588/204720
+
+#EXTINF:-1 tvg-id="My: Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/1280px-Animal_Planet_HD.svg.png" group-title="MALAYSIA opplex", My: Animal Planet HD
+http://opplex.tv:8080/588/588/204721
+
+#EXTINF:-1 tvg-id="My: Discovery Sci HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="MALAYSIA opplex", My: Discovery Sci HD
+http://opplex.tv:8080/588/588/204722
+
+#EXTINF:-1 tvg-id="My: National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nat_Geo_HD_Logo.svg/640px-Nat_Geo_HD_Logo.svg.png" group-title="MALAYSIA opplex", My: National Geographic HD
+http://opplex.tv:8080/588/588/204723
+
+#EXTINF:-1 tvg-id="My: Discovery Asia" tvg-logo="https://3.bp.blogspot.com/-rW6aC-akTMQ/W36n6fnPN-I/AAAAAAAAEW8/H_FCrllEgwoeGAQ9_-eeizZQlxwIxAKtACLcBGAs/s1600/Discovery%2BAsia%2Blogo.png" group-title="MALAYSIA opplex", My: Discovery Asia
+http://opplex.tv:8080/588/588/204724
+
+#EXTINF:-1 tvg-id="My: TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="MALAYSIA opplex", My: TV Alhijrah
+http://opplex.tv:8080/588/588/204725
+
+#EXTINF:-1 tvg-id="My: CCM" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="MALAYSIA opplex", My: CCM
+http://opplex.tv:8080/588/588/204726
+
+#EXTINF:-1 tvg-id="My: CGTN" tvg-logo="https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png" group-title="MALAYSIA opplex", My: CGTN
+http://opplex.tv:8080/588/588/204727
+
+#EXTINF:-1 tvg-id="My: CNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="MALAYSIA opplex", My: CNA HD
+http://opplex.tv:8080/588/588/204728
+
+#EXTINF:-1 tvg-id="My: ABC Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" group-title="MALAYSIA opplex", My: ABC Australia
+http://opplex.tv:8080/588/588/204729
+
+#EXTINF:-1 tvg-id="My: Tutor TV UPSR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Astro_Tutor_TV_UPSR.png" group-title="MALAYSIA opplex", My: Tutor TV UPSR
+http://opplex.tv:8080/588/588/204730
+
+#EXTINF:-1 tvg-id="My: Chutti TV" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_968/chutti-Small-card-864X640.jpg" group-title="MALAYSIA opplex", My: Chutti TV
+http://opplex.tv:8080/588/588/204731
+
+#EXTINF:-1 tvg-id="My: Prima HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="MALAYSIA opplex", My: Prima HD
+http://opplex.tv:8080/588/588/204732
+
+#EXTINF:-1 tvg-id="My: tvN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVN_HD_Logo_2012.PNG/250px-TVN_HD_Logo_2012.PNG" group-title="MALAYSIA opplex", My: tvN HD
+http://opplex.tv:8080/588/588/204733
+
+#EXTINF:-1 tvg-id="My: MTV" tvg-logo="http://163.172.38.193:25461/logo/tv/mm/mtv_us.png" group-title="MALAYSIA opplex", My: MTV
+http://opplex.tv:8080/588/588/204734
+
+#EXTINF:-1 tvg-id="My: KBSW HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/392_300.png" group-title="MALAYSIA opplex", My: KBSW HD
+http://opplex.tv:8080/588/588/204735
+
+#EXTINF:-1 tvg-id="My: eGG Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="MALAYSIA opplex", My: eGG Network HD
+http://opplex.tv:8080/588/588/204736
+
+#EXTINF:-1 tvg-id="My: Colors HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="MALAYSIA opplex", My: Colors HD
+http://opplex.tv:8080/588/588/204737
+
+#EXTINF:-1 tvg-id="My: Tutor TV PT3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/602_300.png" group-title="MALAYSIA opplex", My: Tutor TV PT3
+http://opplex.tv:8080/588/588/204738
+
+#EXTINF:-1 tvg-id="My: AFN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="MALAYSIA opplex", My: AFN HD
+http://opplex.tv:8080/588/588/204739
+
+#EXTINF:-1 tvg-id="My: kix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="MALAYSIA opplex", My: kix HD
+http://opplex.tv:8080/588/588/204740
+
+#EXTINF:-1 tvg-id="My: Makkal TV" tvg-logo="https://cdn6.aptoide.com/imgs/7/7/2/772208946452c9f6f70c36e571c3e408_screen.png" group-title="MALAYSIA opplex", My: Makkal TV
+http://opplex.tv:8080/588/588/204741
+
+#EXTINF:-1 tvg-id="My: TVB Classic" tvg-logo="https://vignette.wikia.nocookie.net/scratchpad/images/e/e2/TVB_Logo_%28Hong_Kong%29.png" group-title="MALAYSIA opplex", My: TVB Classic
+http://opplex.tv:8080/588/588/204742
+
+#EXTINF:-1 tvg-id="My: DW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="MALAYSIA opplex", My: DW HD
+http://opplex.tv:8080/588/588/204743
+
+#EXTINF:-1 tvg-id="My: Phoenix HD" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="MALAYSIA opplex", My: Phoenix HD
+http://opplex.tv:8080/588/588/204744
+
+#EXTINF:-1 tvg-id="My: Shuang Xing HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Astro_SHX_HD.jpeg" group-title="MALAYSIA opplex", My: Shuang Xing HD
+http://opplex.tv:8080/588/588/204745
+
+#EXTINF:-1 tvg-id="My: TVB Xing HE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" group-title="MALAYSIA opplex", My: TVB Xing HE HD
+http://opplex.tv:8080/588/588/204746
+
+#EXTINF:-1 tvg-id="My: WLT JADE" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/da/TVBJ_Sat.png/220px-TVBJ_Sat.png" group-title="MALAYSIA opplex", My: WLT JADE
+http://opplex.tv:8080/588/588/204747
+
+#EXTINF:-1 tvg-id="My: TVBS Asia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/TVBS_Asia_logo_2017.png/220px-TVBS_Asia_logo_2017.png" group-title="MALAYSIA opplex", My: TVBS Asia HD
+http://opplex.tv:8080/588/588/204748
+
+#EXTINF:-1 tvg-id="My: Bernama" tvg-logo="https://www.bernama.com/bm/img/bernama.png" group-title="MALAYSIA opplex", My: Bernama
+http://opplex.tv:8080/588/588/204749
+
+#EXTINF:-1 tvg-id="My: Naura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png" group-title="MALAYSIA opplex", My: Naura
+http://opplex.tv:8080/588/588/204750
+
+#EXTINF:-1 tvg-id="My: Disney Junior" tvg-logo="http://163.172.38.193:25461/logo/tv/dd/disney_junior_us.png" group-title="MALAYSIA opplex", My: Disney Junior
+http://opplex.tv:8080/588/588/204751
+
+#EXTINF:-1 tvg-id="My: Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="MALAYSIA opplex", My: Disney Channel HD
+http://opplex.tv:8080/588/588/204752
+
+#EXTINF:-1 tvg-id="My: Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="MALAYSIA opplex", My: Nickelodeon HD
+http://opplex.tv:8080/588/588/204753
+
+#EXTINF:-1 tvg-id="My: Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Disney_XD_HD.svg/2644px-Disney_XD_HD.svg.png" group-title="MALAYSIA opplex", My: Disney XD HD
+http://opplex.tv:8080/588/588/204754
+
+#EXTINF:-1 tvg-id="My: Nick JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png" group-title="MALAYSIA opplex", My: Nick JR
+http://opplex.tv:8080/588/588/204755
+
+#EXTINF:-1 tvg-id="My: Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1811px-Cartoon_Network_HD_logo.svg.png" group-title="MALAYSIA opplex", My: Cartoon Network HD
+http://opplex.tv:8080/588/588/204756
+
+#EXTINF:-1 tvg-id="My: BBC News HD" tvg-logo="http://163.172.38.193:25461/logo/tv/bb/bbc_news.png" group-title="MALAYSIA opplex", My: BBC News HD
+http://opplex.tv:8080/588/588/204757
+
+#EXTINF:-1 tvg-id="My: Bloomberg TV" tvg-logo="http://163.172.38.193:25461/logo/tv/bb/bloomberg_tv_us.png" group-title="MALAYSIA opplex", My: Bloomberg TV
+http://opplex.tv:8080/588/588/204758
+
+#EXTINF:-1 tvg-id="My: CNBC" tvg-logo="http://163.172.38.193:25461/logo/tv/cc/cnbc_aus.png" group-title="MALAYSIA opplex", My: CNBC
+http://opplex.tv:8080/588/588/204759
+
+#EXTINF:-1 tvg-id="My: CNN HD" tvg-logo="http://163.172.38.193:25461/logo/tv/cc/cnn_international_global.png" group-title="MALAYSIA opplex", My: CNN HD
+http://opplex.tv:8080/588/588/204760
+
+#EXTINF:-1 tvg-id="My: Phoenix News HD" tvg-logo="http://163.172.38.193:25461/logo/tv/pp/phoenix_cne.png" group-title="MALAYSIA opplex", My: Phoenix News HD
+http://opplex.tv:8080/588/588/204761
+
+#EXTINF:-1 tvg-id="My: Sky News HD" tvg-logo="http://163.172.38.193:25461/logo/tv/ss/sky_uk_news.png" group-title="MALAYSIA opplex", My: Sky News HD
+http://opplex.tv:8080/588/588/204762
+
+#EXTINF:-1 tvg-id="My: TVB News" tvg-logo="https://digitpepper.com/blog/wp-content/uploads/2012/08/tvb-news-app-icon.png" group-title="MALAYSIA opplex", My: TVB News
+http://opplex.tv:8080/588/588/204763
+
+#EXTINF:-1 tvg-id="My: TVB E-News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" group-title="MALAYSIA opplex", My: TVB E-News
+http://opplex.tv:8080/588/588/204764
+
+#EXTINF:-1 tvg-id="My: TVBS News" tvg-logo="http://163.172.38.193:25461/logo/tv/tt/tvbs_news.png" group-title="MALAYSIA opplex", My: TVBS News
+http://opplex.tv:8080/588/588/204765
+
+#EXTINF:-1 tvg-id="My: Colors Tamil" tvg-logo="http://163.172.38.193:25461/logo/tv/cc/colors_in.png" group-title="MALAYSIA opplex", My: Colors Tamil
+http://opplex.tv:8080/588/588/204766
+
+#EXTINF:-1 tvg-id="My: Star Vijay HD" tvg-logo="http://163.172.38.193:25461/logo/tv/ss/star_vijay_in.png" group-title="MALAYSIA opplex", My: Star Vijay HD
+http://opplex.tv:8080/588/588/204767
+
+#EXTINF:-1 tvg-id="My: Sun Music HD" tvg-logo="https://kccl.tv/sites/default/files/sun%20music.jpg" group-title="MALAYSIA opplex", My: Sun Music HD
+http://opplex.tv:8080/588/588/204768
+
+#EXTINF:-1 tvg-id="My: Sun TV HD" tvg-logo="http://163.172.38.193:25461/logo/tv/ss/sun_tv_in.png" group-title="MALAYSIA opplex", My: Sun TV HD
+http://opplex.tv:8080/588/588/204769
+
+#EXTINF:-1 tvg-id="My: TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="MALAYSIA opplex", My: TV1
+http://opplex.tv:8080/588/588/204770
+
+#EXTINF:-1 tvg-id="My: TV2" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotv2.jpg" group-title="MALAYSIA opplex", My: TV2
+http://opplex.tv:8080/588/588/204771
+
+#EXTINF:-1 tvg-id="MY: TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MALAYSIA opplex", MY: TV3
+http://opplex.tv:8080/588/588/204772
+
+#EXTINF:-1 tvg-id="MY: TV9" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MALAYSIA opplex", MY: TV9
+http://opplex.tv:8080/588/588/204773
+
+#EXTINF:-1 tvg-id="My: Zee Tamil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" group-title="MALAYSIA opplex", My: Zee Tamil HD
+http://opplex.tv:8080/588/588/204774
+
+#EXTINF:-1 tvg-id="My: ADITHYA" tvg-logo="https://sc.dish.com/shared/images/station-logos/ADTYA.png" group-title="MALAYSIA opplex", My: ADITHYA
+http://opplex.tv:8080/588/588/204775
 
 #EXTINF:-1 tvg-id="astroria.my" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="LIVE | ASTRO", ASTRO Ria HD
 http://iptv.tvmalaysia.cc:80/boy1/boy1/6730
