@@ -801,7 +801,7 @@ http://iptv.tvmalaysia.cc:80/boy1/boy1/8872
 http://iptv.tvmalaysia.cc:80/boy1/boy1/6724
 
 #EXTINF:-1 tvg-id="awesometv.my" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png" group-title="LIVE | ASTRO", Awesome TV
-http://iptv.tvmalaysia.cc:80/boy1/boy1/9016
+http://103.146.184.100:8080/78mastro78/787980/1828
 
 #EXTINF:-1 tvg-id="astrooasis.my" tvg-logo="http://tvmalaysia.cc:80/images/1025207519df6b585f285d5324f5e5c1.png" group-title="LIVE | ASTRO", ASTRO Oasis HD
 http://iptv.tvmalaysia.cc:80/boy1/boy1/6725
